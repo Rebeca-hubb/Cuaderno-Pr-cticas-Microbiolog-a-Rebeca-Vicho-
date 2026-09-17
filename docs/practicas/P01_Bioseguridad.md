@@ -94,9 +94,9 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** Rebeca Vicho Píriz
 - **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
+- **Grupo:** 2º LCB
 - **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Real / simulación con material limpio / actividad documental / otra; descríbela]
