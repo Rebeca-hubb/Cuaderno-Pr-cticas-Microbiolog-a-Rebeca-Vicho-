@@ -140,9 +140,9 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| No hay protocolo específico | No saber cómo actuar en caso de que  | [Completa] |
-| No existe un kit de derrames | [Completa] | [Completa] |
-| No hay una zona de recepción | [Completa] | [Completa] |
+| No hay protocolo específico | No saber cómo actuar en caso de que se produzca un derrame en el laboratorio  | Crear un protocolo desde el centro para poder seguirlo en derrames posteriores |
+| No existe un kit de derrames | No actuar con tanta rapidez ante un derrame y provocar consecuencias más graves | Crear un kit de derrames para poder utilizarlo |
+| No hay una zona de recepción | No tener espacio para poder trabajar y no tener organización a la hora de la recepción | Acondicionar un espacio para la recepción separada de las otras zonas de trabajo |
 
 ### 7.3 EPI y barreras seleccionados
 
@@ -151,8 +151,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 | Bata u otra prenda de protección | Sí  | Elementos de protección básico  |
 | Guantes | Sí | Elementos de protección básico |
 | Protección ocular o facial | No aplicaba | No se requiere |
-| Higiene de manos | Antes de iniciar la práctica y tras terminar de limpiar y recoger todo. Se debe hacer un lavado consciente siguiendo todos los pasos, con agua y jabón de manos  | Protección básica frente a microorganismos de las manos  |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Higiene de manos | Antes de iniciar la práctica y tras terminar de limpiar y recoger todo. Se debe hacer un lavado consciente siguiendo todos los pasos, con agua y jabón de manos  | Protección básica frente a microorganismos  |
+| Otra barrera o medida | Desinfectante | Limpiar y desinfectar las mesas antes y después de la práctica para garantizar la ausencia de microorganismos que puedan afectar a la salud del personal e inventario |
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -162,8 +162,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 |---|---|---|---|
 | Zona y señalización analizadas | Se observa que no existe zona ni señalización de zonas de recepción de muestras | No| Debería existir una zona de recepción de muestras para no correr riesgo |
 | Recepción e identificación trazables | Se observa que no existe un procedimiento adecuado | No | Debería existir un procedimiento que dicte cómo responder en el caso de que ocurra un derrame|
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Derrame contenido y descontaminado | Se observa que el derrame se ha contenido y descontaminado mediante la bandeja de contención, papel absorbente, desinfectante (alcohol al 70º) y una bolsa para eliminar los desechos generados |Sí  | Es necesario un material adecuado para que se de el correcto control del derrame y su posterior descontaminación |
+| Residuos procesados y eliminados correctamente | Se observa | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
 ### 9.2 Resultado principal de la práctica
@@ -197,7 +197,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
 - **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** [Esquema propio / material docente autorizado / otra fuente; indica cuál]
+- **Origen y autorización:** Generado con IA
 - **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
