@@ -163,8 +163,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 | Zona y señalización analizadas | Se observa que no existe zona ni señalización de zonas de recepción de muestras | No| Debería existir una zona de recepción de muestras para no correr riesgo |
 | Recepción e identificación trazables | Se observa que no existe un procedimiento adecuado | No | Debería existir un procedimiento que dicte cómo responder en el caso de que ocurra un derrame|
 | Derrame contenido y descontaminado | Se observa que el derrame se ha contenido y descontaminado mediante la bandeja de contención, papel absorbente, desinfectante (alcohol al 70º) y una bolsa para eliminar los desechos generados |Sí  | Es necesario un material adecuado para que se de el correcto control del derrame y su posterior descontaminación |
-| Residuos procesados y eliminados correctamente | Se observa | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Residuos procesados y eliminados correctamente | Se observa que se han producido residuos: papel absorbente impregnado en agua contaminada| Sí | Es necesaria la buena gestión de los residuos generados en el laboratorio para que no supongan ningún riesgo |
+| Registro y comunicación final | Se observa que... | Parcialmente | [Completa] |
 
 ### 9.2 Resultado principal de la práctica
 
@@ -259,9 +259,9 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23/09/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
+| Agrupamiento | Equipo; Rebeca, Diego, Cristina Manzano, Paula y Miriam |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
