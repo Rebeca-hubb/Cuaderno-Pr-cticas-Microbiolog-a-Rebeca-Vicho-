@@ -164,13 +164,14 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 | Recepción e identificación trazables | Se observa que no existe un procedimiento adecuado | No | Debería existir un procedimiento que dicte cómo responder en el caso de que ocurra un derrame|
 | Derrame contenido y descontaminado | Se observa que el derrame se ha contenido y descontaminado mediante la bandeja de contención, papel absorbente, desinfectante (alcohol al 70º) y una bolsa para eliminar los desechos generados |Sí  | Es necesario un material adecuado para que se de el correcto control del derrame y su posterior descontaminación |
 | Residuos procesados y eliminados correctamente | Se observa que se han producido residuos: papel absorbente impregnado en agua contaminada| Sí | Es necesaria la buena gestión de los residuos generados en el laboratorio para que no supongan ningún riesgo |
-| Registro y comunicación final | Se observa que... | Parcialmente | [Completa] |
+| Registro y comunicación final | Se observa que se ha procedido de la forma correcta según el protocolo al derramarse un poco de la muestra | Parcialmente | Gracias al seguimiento y cumplimiento del procedimiento que se muestra en la práctica se pudo extinguir con éxito el derrame y eliminar todos los desechos que se produjeron |
 
 ### 9.2 Resultado principal de la práctica
 
 Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
 
-[Escribe aquí el resultado principal.]
+Según lo evidenciado anteriormente en formato tabla, mi capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura tiene unos puntos más fuertes que otros, ya que el procedimiento lo he podido seguir y actuar como se suponía que se tiene que hacer.
+También he de decir que, aunque la mayoría de pasos los he hecho de la manera correcta, a la hora de absorber el vertido no procedí de la forma adecuada, sin embargo sé que con más prácticas, por el simple hecho de haberme dado cuenta de los errores, no los cometeré.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
