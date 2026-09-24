@@ -128,13 +128,13 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra ambiental autorizada / preparación comercial segura / vídeo microscópico / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Rebeca Vicho Píriz
+- **Fecha real de realización:** 24/09/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal que realizaste:** Técnico de laboratorio que observa una muestra al microscopio
+- **Modalidad realmente realizada:** Observación al microscopio de una muestra de agua estancada
+- **Código o descripción de la muestra/material docente:** Agua de la fuente de Av. Mártir Santa Eulalia 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -142,17 +142,17 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Material y equipo efectivamente utilizados | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Autorización o modalidad segura de la muestra | Agua estancada de la fuente de Av. Mártir Santa Eulalia |
+| Estado del portaobjetos y cubreobjetos | Perfecto estado |
+| Material y equipo efectivamente utilizados | Papel de filtro, EPI (guantes y bata), pipeta Pasteur, microscopio, portaobjetos, cubreobjetos |
+| Aumento(s) utilizado(s) | x4, x10, x40 |
+| Medidas de seguridad aplicadas | Higiene de manos antes y después de la práctica, utilización de EPI, utilización de papel de filtro para evitar salpicaduras en la mesa de derrames |
 
 ### 8.2 Hipótesis u observación inicial
 
 Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+No espero encontrar ningún microorganismo vivo, ya que se trata de un agua tratada, pero sí espero ver artefactos irrelevantes para la muestra y otros cuerpos más relevantes.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,10 +160,10 @@ Antes de observar, indica qué esperas encontrar o qué características crees q
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Preparación limpia y sin burbujas que impidan la lectura | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación limpia y sin burbujas que impidan la lectura | Se observa una preparación limpia sin salpicaduras y con una burbuja | Parcialmente | Se han creado burbujas al colocar el cubreobjetos sobre la muestra (gota de agua) |
+| Enfoque e iluminación adecuados | El enfoque es exitoso y la iluminación era la adecuada | Sí | Tras adecuar el enfoque con el macrómetro y posteriormente con el micrómetro resultó exitoso, al igual que la iluminación después de regularla para crear contraste |
+| Campo observado de forma sistemática | Se observa un campo limpio, con algunos cuerpos no reconocidos | Parcialmente | [Completa] |
+| Movimiento diferenciado de corrientes o artefactos | Se observan artefactos como burbujas|Sí |Se creó una burbuja que podía observarse al microscopio y dificultaba la vista del campo en el miscroscopio |
 
 ### 9.2 Registro de hallazgos
 
@@ -224,7 +224,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Volumen distinto en la centrifugación | Cambio de procedimiento | Cambiar en el protocolo el volumen que centrifugar | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
