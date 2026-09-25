@@ -263,7 +263,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | 23/09/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | Equipo; Rebeca, Diego, Cristina Manzano, Paula y Miriam |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
+| Materiales o lotes relevantes | No aplicaba |
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
