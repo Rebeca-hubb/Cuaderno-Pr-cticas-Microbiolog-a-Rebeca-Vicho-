@@ -134,7 +134,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-[Escribe aquí tu observación inicial.]
+En nuestro laboratorio no existe una zona habilitada para la recepción de las muestras, lo cuál dificulta más el hacerlo. Además, tampoco se observa señalización alguna, por lo que, aunque estas medidas son relevantes para trabajar con seguridad, se dieron otras que sí ayudaron al trabajo en el laboratorio: utilización de los EPI correspondientes, organización de la zona de trabajo para poder recibir y procesar la muestra y trabajar en equipo ante el inconveniente (el derrame ocasionado).
 
 ### 7.2 Riesgos identificados
 
@@ -181,47 +181,47 @@ También he de decir que, aunque la mayoría de pasos los he hecho de la manera 
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** En la imagen se observan los EPI utilizados para el trabajo en el laboratorio. Los guantes son una medida preventiva ante cualquier contacto con la muestra o reactivos; y la bata asegura que, si hay alguna salpicadura, no entre en contacto con la ropa o cuerpo del técnico de laboratorio.
+- **Autoría y origen:** Propia
+- **Momento del procedimiento:** Primero hay que ponerse y abrocharse la bata, luego viene la higiene de manos y, finalmente, ponerse los guantes para comenzar con el trabajo.
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
-- **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Se observa la identificación de la muestra, recibida directamente en el recipiente adecuado, por lo que ni hizo falta el transvase a uno secundario, también se asegura la integridad de la muestra y, finalmente, se muestra que la "zona de recepción" es realmente la mesa de trabajo del laboratorio.
+- **Comprobación técnica asociada:** La recepción es conforme porque en la identificación y documentación que aparece en el recipiente de la muestra se explica que es agua recogida de una fuente urbana, lo cuál significa que no contiene riesgo biológico.
+- **Momento del procedimiento:** Al llegar la muestra se observa la documentación, integridad y recipiente donde llega, se registran todos los datos para asegurar la trazabilidad y se comienza con el trabajo, donde ocurrirá un derrame que se deberá eliminar.
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
-- **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** Generado con IA
-- **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
+- **Pie de figura:** Se representan la recepción de la muestra, manipulación y apertura de la muestra, derrame y contención, análisis de la muestra, gestión de residuos, limpieza y descontaminación del material, y cumplimentación de registros y cierre del procedimiento.
+- **Origen y autorización:** Generado con IA (chatGPT)
+- **Relación con el procedimiento:** La práctica se relaciona directamente con las etapas 1 (recepción de la muestra), 3 (derrame y contención), 5 (gestión de residuos), 6 (limpieza y descontaminación del material) y 7 (cumplimentación de registros y cierre del proceso). Se procede tal como aparece descrito de forma resumida en el workflow.
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** [Qué se observa: señalización, contención, absorbente o aplicación del desinfectante]
-- **Medida crítica demostrada:** [Explica qué riesgo se controla]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** No se observa señalización del derrame, ya que en el laboratorio no hay existencia de esta, sin embargo, tras el derrame se avisa a todos los compañeros del equipo de lo ocurrido, se cubre el derrame con papel absorbente SIN PRESIONARLO, se pulveriza desinfectante y, como no hacen falta las pinzas por la inexistencia de riesgo con la muestra, se recoge el papel y se deposita en una bolsa acondicionada para ellos, para, posteriormente, desecharla en el contenedor adecuado. Finalmente, se desinfecta la zona del derrame.
+- **Medida crítica demostrada:** Se controla el riesgo de aerosoles, riesgo de contacto técnico-muestra y riesgo de contaminación de la zona de trabajo.
+- **Momento del procedimiento:** Dentro de una bandeja abrí el recipiente donde se encontraba la muestra y se ocasionó un derrame. Avisé a mis compañeros de lo ocurrido, y, gracias al kit de derrames preparado con anterioridad, cogí el papel absorbente y lo coloqué encima del vertido, eché desinfectante y con los guantes lo metí en una bolsa que eliminé en el contenedor de residuos asimilables a urbanos del laboratorio, desechando justo después los guantes que tenía puestos.
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** [Qué residuo se procesa, en qué recipiente se deposita y qué tratamiento se aplica]
-- **Ruta autorizada:** [Completa según el protocolo del centro]
-- **Relación con la trazabilidad:** [Explica qué registro o decisión respalda]
+- **Pie de foto:** Se procesa el papel absorbente con el que se recogió el derrame ocasionado. Este papel se depositó en una bolsa para luego ser eliminada en el contenedor de residuos asimilables a urbanos, ya que según la tabla de riesgos biológicos, este entra dentro del grupo 1.
+- **Ruta autorizada:** En el centro no existe un protocolo para la actuación ante un derrame.
+- **Relación con la trazabilidad:** Al no haber un protocolo acondicionado para lo sucedido, actuamos según el PNT adecuado y resumido en el protocolo de esta práctica, por lo que se siguió según el procedimiento de la práctica 01.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No recordaba cómo proceder antes de recoger el papel absorbente de la bandeja donde estaba el derrame | No leer con detenimiento el protocolo | Mis compañeros de equipo me ayudaron | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -233,7 +233,7 @@ Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
-[Escribe aquí tu conclusión.]
+Sí alcancé el objetivo de la práctica, ya que supe cómo proceder antes un derrame según como se observa en el apartado 9.1. Sin embargo, hubo limitaciones a la hora de proceder, ya que no existe un protocolo para ello en el instituto, ni señalización, ni tampoco una zona de recepción de muestras.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -241,11 +241,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué comprobación de la recepción o del derrame consideraste más crítica para evitar una exposición o contaminación, y cómo verificaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   Lo más crítico considero que fue que el vertido fuera controlado dentro de una bandeja y la rápida actuación a la hora de cubrirlo con absorbente. La verificación de que se realizó de forma correcta se efectuó al observar que el derrame no se extendió y que se eliminó de forma rápida y sin complicaciones.
 
 2. **Interpretación:** Ante el derrame simulado, ¿qué indicios utilizaste para decidir la contención, la descontaminación y el circuito de residuos? Explica por qué descartaste otras opciones.
 
-   [Respuesta del alumnado]
+   Para decidir tanto la contención como la descontaminación y el circuito de residuos que utilicé, observé la documentación e identificación de la muestra, ya que ahí se observa que es agua sin riesgos biológicos ni de otro tipo.
 
 3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
