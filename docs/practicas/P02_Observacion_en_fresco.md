@@ -162,8 +162,8 @@ No espero encontrar ningún microorganismo vivo, ya que se trata de un agua trat
 |---|---|---|---|
 | Preparación limpia y sin burbujas que impidan la lectura | Se observa una preparación limpia sin salpicaduras y con una burbuja | Parcialmente | Se han creado burbujas al colocar el cubreobjetos sobre la muestra (gota de agua) |
 | Enfoque e iluminación adecuados | El enfoque es exitoso y la iluminación era la adecuada | Sí | Tras adecuar el enfoque con el macrómetro y posteriormente con el micrómetro resultó exitoso, al igual que la iluminación después de regularla para crear contraste |
-| Campo observado de forma sistemática | Se observa un campo limpio, con algunos cuerpos no reconocidos | Parcialmente | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | Se observan artefactos como burbujas|Sí |Se creó una burbuja que podía observarse al microscopio y dificultaba la vista del campo en el miscroscopio |
+| Campo observado de forma sistemática | Se observa un campo limpio, con algunos cuerpos no reconocidos | Parcialmente | No se observan microorganismos vivos, sino cuerpos no reconocidos que no tienen interés para la práctica|
+| Movimiento diferenciado de corrientes o artefactos | Se observan artefactos como burbujas|Sí |Se creó una burbuja que podía observarse al microscopio y dificultaba la vista del campo en el microscopio |
 
 ### 9.2 Registro de hallazgos
 
@@ -190,40 +190,40 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 - **Archivo previsto:** `../assets/P02/01_preparacion_sin_concentracion.jpg`
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
-- **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
+- **Pie de foto:** Con una pipeta Pasteur se cogió agua del recipiente con la muestra y, en el centro del portaobjetos se depositó una pequeña gota de agua, cubierta posteriormente con el cubreobjetos que se coloca apoyando por un lado a unos 45º y dejarlo caer sobre la gota de agua, evitando así la formación de salpicaduras y/o burbujas. La muestra ha sido obtenida de una fuente urbana.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
 - **Archivo previsto:** `../assets/P02/02_campo_sin_concentracion.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
+- **Pie de foto:** No se ha conseguido identificar ningún cuerpo o microorganismo.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Centrifugación de la muestra
 
 - **Archivo previsto:** `../assets/P02/03_centrifugacion.jpg`
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
-- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
+- **Pie de foto:** Se ha usado una centrifugadora de mesa programada a 2300 rpm durante 3 minutos.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
 - **Archivo previsto:** `../assets/P02/04_campo_concentrado.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
+- **Pie de foto:** Aunque se observan más cuerpos que en el agua sin centrifugar, sigue sin ser reconocido ningún cuerpo. 
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
 - **Archivo previsto:** `../assets/P02/05_limpieza_y_residuos.jpg`
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
-- **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
+- **Pie de foto:** Tras finalizar la práctica, los portaobjetos se eliminaron en el contenedor de residuos cortopunzantes, mientras que la pipeta Pasteur y el papel de filtro de eliminaron en el contenedor de residuos asimilables a urbanos, el microscopio se colocó en su lugar y, finalmente, la muestra de agua se guardó para seguir haciendo prácticas.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
-|---|---|---|---|
+|No recoger agua estancada| No tenía conocimiento de que el agua de las fuentes urbanas estaba tratada |Observar esa muestra sabiendo que ni iba a encontrar microorganismos vivos |Sí|
 | Volumen distinto en la centrifugación | Cambio de procedimiento | Cambiar en el protocolo el volumen que centrifugar | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
@@ -265,7 +265,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Identificador de práctica | `P02` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Individual |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
 | Controles | [Resume o enlaza al apartado 9.1] |
