@@ -142,14 +142,14 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
+- **Nombre y apellidos:** Rebeca Vicho Píriz
+- **Fecha real de realización:** 01/09/2026
+- **Grupo:** 2º LCB
 - **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
 - **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
+- **Reactivo utilizado:** Azul de metileno al 5%
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
