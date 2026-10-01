@@ -145,10 +145,10 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 - **Nombre y apellidos:** Rebeca Vicho Píriz
 - **Fecha real de realización:** 01/09/2026
 - **Grupo:** 2º LCB
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal que realizaste:** Técnico de laboratorio que observa muestra de agua en tinción al microscopio
+- **Modalidad realmente realizada:** Preparación de muestra con tinción
+- **Código o descripción de la muestra/material docente:** Tinción de azul de metileno ya preparada en el laboratorio
 - **Reactivo utilizado:** Azul de metileno al 5%
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -157,7 +157,7 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
+| Autorización o modalidad segura de la muestra | ---- |
 | FDS y estado del reactivo | [Completa] |
 | EPI y medidas de seguridad aplicadas | [Completa] |
 | Estado del portaobjetos y cubreobjetos | [Completa] |
