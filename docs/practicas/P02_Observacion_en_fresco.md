@@ -220,6 +220,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** Tras finalizar la práctica, los portaobjetos se eliminaron en el contenedor de residuos cortopunzantes, mientras que la pipeta Pasteur y el papel de filtro de eliminaron en el contenedor de residuos asimilables a urbanos, el microscopio se colocó en su lugar y, finalmente, la muestra de agua se guardó para seguir haciendo prácticas.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
@@ -236,7 +237,9 @@ Los hallazgos encontrados.......................................................
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-[Escribe aquí tu conclusión.]
+El objetivo de la práctica ha sido alcanzado, ya que, apoyándome en las evidencias visuales entregadas se puede observar que la preparación de la muestra para su posterior observación al microscopio se realizó de forma correcta al igual que la parte de observación, ya que aunque la imagen 4 puede observarse borrosa, el campo no lo estaba, como bien se indica en el apartado 9.1. Finalmente, todo fue debidamente registrado durante la práctica, ya que fui rellenando este documento a la vez que trabajando.
+
+Sin embargo, no hubo observación de microorganismos ni entidades en la muestra, lo que limitó y dificultó el avance de la práctica.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -244,35 +247,36 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   [Respuesta del alumnado]
+   Lo más importante fueron 2 factores: la disposición del cubreobjetos sobre la gota de muestra (si está de forma adecuada no se crean burbujas y deja observar más fácilmente la muestra) y el contraste en el microscopio (la intensidad de la luz es esencial para que se puedan ver mejor las estructuras en el campo del microscopio)
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   [Respuesta del alumnado]
+   En mi caso no observé ningún movimiento, ya que no encontré ni artefactos que se movieran ni microorganismos vivos.
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   [Respuesta del alumnado]
+   Lo que mejor respalda la conclusión principal es el registro, ya que, aunque en las imágenes es más visual no respaldan totalmente la conclusión al hacerlas rápido o pensando solo en captar la imagen que se pide en el cuaderno de la práctica. Por lo tanto, el registro, es el mejor comprobante de la práctica.
+Aun así, esta evidencia tiene un defecto, la esquematización del mismo, ya que no se puede exponer todo de forma extendida.
 
-4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
+5. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   [Respuesta del alumnado]
+Mejoraría la procedencia de la muestra si esta depende de mí.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 24/09/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
 | Agrupamiento | Individual |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
+| Modalidad y origen de la muestra o evidencia | Agua de fuente urbana |
+| Materiales o lotes relevantes | No aplicaba |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
+| Ruta de residuos aplicada | Los portaobjetos se desecharon en el contenedor para residuos cortopunzantes, la muestra líquida sobrante se eliminó por el desagüe mientras corre agua del grifo y las pipetas Pasteur, recipientes donde estaban contenidas las muestras, los guantes y el papel absorbente tras desinfectar la zona de trabajo se eliminaron en el contenedor de residuos asimilables a urbanos  |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
