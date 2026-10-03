@@ -272,7 +272,7 @@ Mejoraría la procedencia de la muestra si esta depende de mí.
 | Agrupamiento | Individual |
 | Modalidad y origen de la muestra o evidencia | Agua de fuente urbana |
 | Materiales o lotes relevantes | No aplicaba |
-| Controles | [Resume o enlaza al apartado 9.1] |
+| Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#91-comprobaci%C3%B3n-de-calidad-de-la-preparaci%C3%B3n |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
