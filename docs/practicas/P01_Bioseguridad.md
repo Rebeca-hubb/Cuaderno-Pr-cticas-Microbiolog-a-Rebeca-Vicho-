@@ -227,7 +227,7 @@ También he de decir que, aunque la mayoría de pasos los he hecho de la manera 
 
 Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la recepción de la muestra, el EPI seleccionado, la respuesta al derrame y el procesamiento de residuos. Justifica tus decisiones con el PNT del centro o, si no existe, con el manual de la OMS enlazado en el apartado 4.
 
-[Escribe aquí tu interpretación técnica.]
+Aunque no existe una zona de recepción de muestras ni señalización para cuando se produjo el derrame, el resultado fue óptimo, ya que en referencia con lo primero se pudo habilitar una zona en la mesa de trabajo para ello, y en relación con lo segundo, al trabajar pocas personas y ser un derrame de una muestra no contaminada biológicamente se avisó inmediatamente mediante la palabra. Así, según el apartado 3.8. del manual de la OMS enlazado en el apartado 4 no se hizo exactamente igual, sin embargo, fue un procedimiento correcto, ya que se modificó según las características de la muestra y el derrame utilizando como EPI la bata y los guantes, como respuesta al derrame se observó y llevó a cabo el protocolo que aparece en el apartado 5, procedimiento 2, y los residuos fueron correctamente desechados según la gestión de residuos.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -249,11 +249,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
-   [Respuesta del alumnado]
+   Lo que mejor evidencia la trazabilidad de todo el proceso llevado a cabo es la realización de este documento, donde se registra todos los pasos y lo que ocurre en cada uno de ellos, observando así qué se realizó de forma correcta y qué no, pudiendo identificar dónde está el error y así no cometerlo en posibles prácticas posteriores.  
 
 4. **Aprendizaje y transferencia:** ¿Qué hábito concreto aplicarás en las próximas prácticas de microbiología y cómo ayudará a prevenir errores o riesgos reales?
 
-   [Respuesta del alumnado]
+   Lo que aplicaré en próximas prácticas de este módulo será leer con más detenimiento el procedimiento antes de realizar la práctica, ayudando a hacerlo todo de forma correcta y reduciendo así cualquier riesgo que implique la práctica, desde errores en la realización de la misma a la mala gestión de los residuos.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -267,7 +267,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Incidencias y acciones correctoras | Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE] |
 | Ruta de residuos aplicada | [Completa]
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
