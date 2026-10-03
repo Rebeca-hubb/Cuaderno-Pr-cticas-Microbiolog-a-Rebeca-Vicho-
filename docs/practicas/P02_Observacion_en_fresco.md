@@ -230,7 +230,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-[Escribe aquí tu interpretación técnica.]
+Los hallazgos encontrados...............................................................................................................
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
