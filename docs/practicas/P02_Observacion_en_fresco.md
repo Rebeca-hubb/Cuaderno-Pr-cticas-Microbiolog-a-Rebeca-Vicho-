@@ -209,14 +209,14 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
-![Campo microscópico de la preparación concentrada](../assets/P02/04_campo microscópico de la preparación concentrada.jpg)
+![Campo microscópico de la preparación concentrada](../assets/P02/04_campo_con_concentración.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** Aunque se observan más cuerpos que en el agua sin centrifugar, sigue sin ser reconocido ningún cuerpo. 
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
-![Limpieza del puesto y eliminación de residuos](../assets/P02/05_limpieza del puesto y eliminación de residuos.jpg)
+![Limpieza del puesto y eliminación de residuos](../assets/P02/05_limpieza_eliminación.jpg)
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** Tras finalizar la práctica, los portaobjetos se eliminaron en el contenedor de residuos cortopunzantes, mientras que la pipeta Pasteur y el papel de filtro de eliminaron en el contenedor de residuos asimilables a urbanos, el microscopio se colocó en su lugar y, finalmente, la muestra de agua se guardó para seguir haciendo prácticas.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
