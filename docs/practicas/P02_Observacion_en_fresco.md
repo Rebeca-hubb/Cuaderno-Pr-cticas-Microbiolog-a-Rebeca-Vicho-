@@ -195,14 +195,14 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-![Campo microscópico de la preparación sin concentración](../assets/P02/02_campo microscópico de la preparación sin concentración.jpg)
+![Campo microscópico de la preparación sin concentración](../assets/P02/02_campo_sin_concentracion.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** No se ha conseguido identificar ningún cuerpo o microorganismo.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Centrifugación de la muestra
 
-![Centrifugación de la muestra](../assets/P02/03_centrifugación de la muestra.jpg)
+![Centrifugación de la muestra](../assets/P02/03_centrifugación_muestra.jpg)
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
 - **Pie de foto:** Se ha usado una centrifugadora de mesa programada a 2300 rpm durante 3 minutos.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
