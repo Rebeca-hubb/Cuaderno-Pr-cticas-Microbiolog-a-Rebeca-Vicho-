@@ -264,7 +264,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | Equipo; Rebeca, Diego, Cristina Manzano, Paula y Miriam |
 | Materiales o lotes relevantes | No aplicaba |
-| Controles | [Resume o enlaza al apartado 9] |
+| Controles | [[Resume o enlaza al apartado 9]](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#91-comprobaci%C3%B3n-de-los-controles-de-calidad) |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante |
