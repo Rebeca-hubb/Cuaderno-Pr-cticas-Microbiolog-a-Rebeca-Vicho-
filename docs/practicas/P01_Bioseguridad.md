@@ -267,7 +267,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE] |
+| Incidencias y acciones correctoras | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante |
 | Ruta de residuos aplicada | [Completa]
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
