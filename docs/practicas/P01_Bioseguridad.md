@@ -264,11 +264,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | Equipo; Rebeca, Diego, Cristina Manzano, Paula y Miriam |
 | Materiales o lotes relevantes | No aplicaba |
-| Controles | [[Resume o enlaza al apartado 9]](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#91-comprobaci%C3%B3n-de-los-controles-de-calidad) |
-| Resultado | [Resume o enlaza al apartado 9.2] |
+| Controles | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#91-comprobaci%C3%B3n-de-los-controles-de-calidad) |
+| Resultado | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#92-resultado-principal-de-la-pr%C3%A1ctica) |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante |
-| Ruta de residuos aplicada | [Completa]
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Ruta de residuos aplicada | El papel absorbente con el desinfectante utilizado (alcohol al 70%) y el residuo de derrames se aisló en una bolsa de plástico que se cerró y fue directamente al contenedor de residuos asimilables a urbanos, al igual que los guantes |
+| Estado de entrega | Pendiente de revisión |
 
 ---
