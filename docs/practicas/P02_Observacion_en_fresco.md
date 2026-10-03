@@ -188,35 +188,35 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 1 — Preparación húmeda sin concentración
 
-- **Archivo previsto:** `../assets/P02/01_preparacion_sin_concentracion.jpg`
+![Preparación húmeda sin concentración](../assets/P02/01_preparación húmeda sin concentración.jpg)
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
 - **Pie de foto:** Con una pipeta Pasteur se cogió agua del recipiente con la muestra y, en el centro del portaobjetos se depositó una pequeña gota de agua, cubierta posteriormente con el cubreobjetos que se coloca apoyando por un lado a unos 45º y dejarlo caer sobre la gota de agua, evitando así la formación de salpicaduras y/o burbujas. La muestra ha sido obtenida de una fuente urbana.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-- **Archivo previsto:** `../assets/P02/02_campo_sin_concentracion.jpg`
+![Campo microscópico de la preparación sin concentración](../assets/P02/02_campo microscópico de la preparación sin concentración.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** No se ha conseguido identificar ningún cuerpo o microorganismo.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Centrifugación de la muestra
 
-- **Archivo previsto:** `../assets/P02/03_centrifugacion.jpg`
+![Centrifugación de la muestra](../assets/P02/03_centrifugación de la muestra.jpg)
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
 - **Pie de foto:** Se ha usado una centrifugadora de mesa programada a 2300 rpm durante 3 minutos.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
-- **Archivo previsto:** `../assets/P02/04_campo_concentrado.jpg`
+![Campo microscópico de la preparación concentrada](../assets/P02/04_campo microscópico de la preparación concentrada.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** Aunque se observan más cuerpos que en el agua sin centrifugar, sigue sin ser reconocido ningún cuerpo. 
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
-- **Archivo previsto:** `../assets/P02/05_limpieza_y_residuos.jpg`
+![Limpieza del puesto y eliminación de residuos](../assets/P02/05_limpieza del puesto y eliminación de residuos.jpg)
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** Tras finalizar la práctica, los portaobjetos se eliminaron en el contenedor de residuos cortopunzantes, mientras que la pipeta Pasteur y el papel de filtro de eliminaron en el contenedor de residuos asimilables a urbanos, el microscopio se colocó en su lugar y, finalmente, la muestra de agua se guardó para seguir haciendo prácticas.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
