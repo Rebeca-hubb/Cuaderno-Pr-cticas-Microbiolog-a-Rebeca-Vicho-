@@ -275,7 +275,7 @@ Mejoraría la procedencia de la muestra si esta depende de mí.
 | Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#91-comprobaci%C3%B3n-de-calidad-de-la-preparaci%C3%B3n |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Incidencias y acciones correctoras | [[Resume o enlaza al apartado 11]](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos aplicada | Los portaobjetos se desecharon en el contenedor para residuos cortopunzantes, la muestra líquida sobrante se eliminó por el desagüe mientras corre agua del grifo y las pipetas Pasteur, recipientes donde estaban contenidas las muestras, los guantes y el papel absorbente tras desinfectar la zona de trabajo se eliminaron en el contenedor de residuos asimilables a urbanos  |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
