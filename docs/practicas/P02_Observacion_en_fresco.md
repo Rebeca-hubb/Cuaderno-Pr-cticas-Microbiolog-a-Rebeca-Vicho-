@@ -188,7 +188,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 1 — Preparación húmeda sin concentración
 
-![Preparación húmeda sin concentración](../assets/P02/01_preparación húmeda sin concentración.jpg)
+![Preparación húmeda sin concentración](../assets/P02/1_preparacion_sin_concentracion.jpg)
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
 - **Pie de foto:** Con una pipeta Pasteur se cogió agua del recipiente con la muestra y, en el centro del portaobjetos se depositó una pequeña gota de agua, cubierta posteriormente con el cubreobjetos que se coloca apoyando por un lado a unos 45º y dejarlo caer sobre la gota de agua, evitando así la formación de salpicaduras y/o burbujas. La muestra ha sido obtenida de una fuente urbana.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
