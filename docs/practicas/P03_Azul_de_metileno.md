@@ -179,7 +179,7 @@ En esta práctica espero encontrar más cuerpos que los observados en la prepara
 | Preparación sin burbujas o artefactos limitantes | En la preparación para la observación de la muestra sin centrifugación se crearon burbujas | No | Debido a la mala colocación del cubreobjetos sobre la preparación se formaron burbujas que luego dificultaron la observación al microscopio |
 | Contraste suficiente para la observación | El contraste del microscopio para la observación fue correcto | Sí | Regulando la fuente de luz del microscopio pude regular el contraste en el que mejor se observan las estructuras teñidas de la muestra |
 | Enfoque e iluminación adecuados | Se consiguió un buen enfoque empezando por el objetivo 4x, hasta el 40x. También hubo buena iluminación de la preparación | Sí | El enfoque e iluminación logrados hicieron el trabajo de observación más fácil, haciendo que todo se viera nítido |
-| Gestión correcta de residuos y limpieza | Los residuos se eliminaron según la ruta de gestión de residuos del centro | Sí |  |
+| Gestión correcta de residuos y limpieza | Los residuos se eliminaron según la ruta de gestión de residuos del centro | Sí | El residuo líquido de las muestras se desecharon por el desagüe dejando el agua del grifo correr, las pipetas Pasteur y el papel de filtro se desecharon en el contenedor de asimilables a urbanos, las preparaciones realizadas en portaobjetos se eliminaron en el contenedor de residuos cortopunzantes y, finalmente, el microscopio se colocó en su lugar y se desinfectó toda la zona con alcohol al 70% |
 
 ### 9.2 Registro de hallazgos
 
