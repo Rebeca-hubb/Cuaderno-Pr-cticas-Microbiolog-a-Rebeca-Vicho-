@@ -226,12 +226,12 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 - **Texto alternativo:** Aplicación del azul de metileno a la muestra en el portaobjetos.
 - **Pie de foto:** [Describe la aplicación del colorante y la preparación del portaobjetos.]
 - **Medida de seguridad o calidad que demuestra:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
+- **Autoría:** Propia
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Campo microscópico teñido sin centrifugación
 
-- **Archivo previsto:** `../assets/P03/03_campo_tenido_sin_centrifugacion.jpg`
+- **Archivo previsto:** [Campo microscópico teñido sin centrifugación.](../assets/P03/03_campo_tenido_sin_centrifugacion.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
 - **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
 - **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
