@@ -213,7 +213,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 1 — Preparación del colorante
 
-- **Archivo previsto:** `../assets/P03/01_preparacion_colorante.jpg`
+![Preparación del colorante](../assets/P03/05_limpieza_eliminación.jpg)
 - **Texto alternativo:** Preparación autorizada de la solución de azul de metileno.
 - **Pie de foto:** [Describe la pesada y preparación de la solución; registra la concentración final indicada en la etiqueta.]
 - **Control de seguridad o calidad visible:** [Completa]
@@ -222,7 +222,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 2 — Proceso de tinción
 
-- **Archivo previsto:** `../assets/P03/02_proceso_tincion.jpg`
+![Proceso de tinción](../assets/P03/02_tincion.jpg)
 - **Texto alternativo:** Aplicación del azul de metileno a la muestra en el portaobjetos.
 - **Pie de foto:** [Describe la aplicación del colorante y la preparación del portaobjetos.]
 - **Medida de seguridad o calidad que demuestra:** [Completa]
@@ -231,7 +231,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 3 — Campo microscópico teñido sin centrifugación
 
-[Campo microscópico teñido sin centrifugación.](../assets/P03/03_campo_tenido_sin_centrifugacion.jpg)
+![Campo microscópico teñido sin centrifugación](../assets/P03/03_campo_tenido.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
 - **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
 - **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
@@ -240,7 +240,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 4 — Proceso de centrifugación
 
-- **Archivo previsto:** `../assets/P03/04_proceso_centrifugacion.jpg`
+![Proceso de centrifugación](../assets/P03/04_proceso_centrifugacion.jpg)
 - **Texto alternativo:** Tubo y centrífuga durante la preparación concentrada.
 - **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
 - **Control de seguridad o calidad visible:** [Completa]
@@ -250,7 +250,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 5 — Campo microscópico teñido con centrifugación
 
-- **Archivo previsto:** `../assets/P03/05_campo_tenido_con_centrifugacion.jpg`
+![Campo microscópico teñido con centrifugación](../assets/P03/05_campo_tenido_con_centrifugacion.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación teñida tras centrifugación.
 - **Pie de foto:** [Describe el campo, identifica la fracción observada y registra el aumento.]
 - **Rasgo observado y limitación:** [Completa; no infieras movilidad ni viabilidad tras la concentración.]
