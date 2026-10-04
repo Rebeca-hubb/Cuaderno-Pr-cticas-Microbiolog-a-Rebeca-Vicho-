@@ -193,11 +193,11 @@ En esta práctica espero encontrar más cuerpos que los observados en la prepara
 
 | Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital directa / preparación concentrada teñida | Interpretación de la diferencia |
 |---|---|---|---|
-| Contraste | [Completa] | [Completa] | [Completa] |
-| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
-| Movimiento observado (solo modalidad sin centrifugación) | [Completa] | [Completa] | [Completa] |
-| Facilidad de observación | [Completa] | [Completa] | [Completa] |
-| Limitaciones | [Completa] | [Completa] | [Completa] |
+| Contraste | Contraste correcto | Buen contraste | Aunque ambos contrastes fueron óptimos, en la P03 se vieron mejor las estructuras |
+| Morfología o detalles visibles | Pocos detalles visibles | Muchos detalles visibles y mejor identificación de morfologías | En la P03 aparecieron más elementos visibles gracias a la tinción, sobre todo tras la centrifugación |
+| Movimiento observado (solo modalidad sin centrifugación) | Sin movimiento observado | Sin movimiento observado | Al no haber microorganismos vivos en ninguna práctica se observó movimiento |
+| Facilidad de observación | Buen enfoque, iluminación y contraste, pero pocas estructuras visibles | Buen enfoque, iluminación y contraste además de estructuras observables | Al estar la preparación teñida se pudieron observar mejor distintas estructuras |
+| Limitaciones | Al proceder la muestra de agua tratada no contenía muchos cuerpos visibles para optimizar la práctica | Aun la procedencia del agua se observó estructuras distintas e interesantes | Una vez más la tinción ha facilitado la observación de cuerpos |
 
 ### Resultado principal
 
