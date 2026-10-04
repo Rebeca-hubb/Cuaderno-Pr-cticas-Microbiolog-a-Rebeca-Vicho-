@@ -158,16 +158,16 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 | Comprobación | Registro |
 |---|---|
 | Autorización o modalidad segura de la muestra | Práctica autorizada. Tinción de agua con azul de metileno y observación al microscopio |
-| FDS y estado del reactivo | FDS (https://labbox.es/wp-content/uploads/FDS/SDS_ES_10310.pdf) ; no se sabe si el reactivo está en buenas condiciones, ya que hemos u |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
+| FDS y estado del reactivo | FDS (https://labbox.es/wp-content/uploads/FDS/SDS_ES_10310.pdf) ; no se sabe si el reactivo está en buenas condiciones, ya que hemos utilizado un recipiente que contiene azul de metileno preparado para su uso en el que no se observa más que su nombre como identificación |
+| EPI y medidas de seguridad aplicadas | Guantes y bata de laboratorio, desinfección del puesto de trabajo, utilización de una pipeta Pasteur para cada paso y papel de filtro para trabajar sobre este |
+| Estado del portaobjetos y cubreobjetos | Correcto |
+| Aumento(s) utilizado(s) | 4x, 10x, 40x |
 
 ### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis.]
+En esta práctica espero encontrar más cuerpos que los observados en la preparación en fresco de la P02, ya que puede que las estructuras más incoloras no se observen sin estar teñidas o se puedan identificar mejor de esta manera.
 
 ## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -175,11 +175,11 @@ Antes de observar, indica qué diferencia esperas encontrar entre la preparació
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | El reactivo se identificó lo que era, pero no sigue todos los protocolos para que esté bien identificado, aunque sí es apto para su uso | No | El reactivo debería haber sido preparado en la práctica o, si ya estaba listo, que estuviera bien identificado con la fecha en la que se hizo, lote, nombre del producto... Sin embargo, es apto para utilizarlo en la práctica según nos lo indicó el profesor |
+| Preparación sin burbujas o artefactos limitantes | En la preparación para la observación de la muestra sin centrifugación se crearon burbujas | No | Debido a la mala colocación del cubreobjetos sobre la preparación se formaron burbujas que luego dificultaron la observación al microscopio |
+| Contraste suficiente para la observación | El contraste del microscopio para la observación fue correcto | Sí | Regulando la fuente de luz del microscopio pude regular el contraste en el que mejor se observan las estructuras teñidas de la muestra |
+| Enfoque e iluminación adecuados | Se consiguió un buen enfoque empezando por el objetivo 4x, hasta el 40x. También hubo buena iluminación de la preparación | Sí | El enfoque e iluminación logrados hicieron el trabajo de observación más fácil, haciendo que todo se viera nítido |
+| Gestión correcta de residuos y limpieza | Los residuos se eliminaron según la ruta de gestión de residuos del centro | Sí |  |
 
 ### 9.2 Registro de hallazgos
 
