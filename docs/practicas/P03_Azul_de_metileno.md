@@ -213,7 +213,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 1 — Preparación del colorante
 
-![Preparación del colorante](../assets/P03/05_limpieza_eliminación.jpg)
+![Preparación del colorante](../assets/P03/01_preparacion_colorante.jpg)
 - **Texto alternativo:** Preparación autorizada de la solución de azul de metileno.
 - **Pie de foto:** [Describe la pesada y preparación de la solución; registra la concentración final indicada en la etiqueta.]
 - **Control de seguridad o calidad visible:** [Completa]
@@ -231,7 +231,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 3 — Campo microscópico teñido sin centrifugación
 
-![Campo microscópico teñido sin centrifugación](../assets/P03/03_campo_tenido.jpg)
+![Campo microscópico teñido sin centrifugación](../assets/P03/03_campo_tenido_sin_centrifugacion.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
 - **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
 - **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
