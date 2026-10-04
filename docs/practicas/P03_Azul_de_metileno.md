@@ -157,8 +157,8 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | ---- |
-| FDS y estado del reactivo | [Completa] |
+| Autorización o modalidad segura de la muestra | Práctica autorizada. Tinción de agua con azul de metileno y observación al microscopio |
+| FDS y estado del reactivo | FDS (https://labbox.es/wp-content/uploads/FDS/SDS_ES_10310.pdf) ; no se sabe si el reactivo está en buenas condiciones, ya que hemos u |
 | EPI y medidas de seguridad aplicadas | [Completa] |
 | Estado del portaobjetos y cubreobjetos | [Completa] |
 | Aumento(s) utilizado(s) | [Completa] |
