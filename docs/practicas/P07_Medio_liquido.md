@@ -265,7 +265,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Componentes, lotes y caducidades relevantes | Reactivo BHI con lote 608..... con caducidad........ |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
+| Interpretación | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos y conservación | Todos los residuos son asimilables a urbanos |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
