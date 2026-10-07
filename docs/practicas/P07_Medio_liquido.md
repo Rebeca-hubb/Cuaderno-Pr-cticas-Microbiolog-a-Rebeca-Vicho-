@@ -131,13 +131,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | Agua destilada, espátula y recipiente de pesada; material volumétrico adecuado a 50 mL; recipiente de preparación y agitación; pipeta o dispensador adecuado para medir 8 mL; seis tubos autoclavables con capacidad suficiente para el volumen y el espacio de seguridad; cierres compatibles, gradilla o cestillo autoclavable, etiquetas. |
-| Equipos | Balanza, autoclave |
-| Reactivos/materiales | Caldo BHI deshidratado con corrector de pH incorporado, etiqueta o ficha técnica y FDS.  |
+| Instrumental | Pipeta graduado y prepipeta de pera, vaso de precipitado, probeta, tapones de aluminio y corcholina, tubos de ensayo, gradilla, pipeta Pasteur, varilla agitadora, espátula y vidrio de rejoj |
+| Equipos | Balanza portátil, autoclave |
+| Reactivos/materiales | Brain Heart infusion broth, agua destilada y papel aluminio |
 
 | Residuo previsto | Tipo |
-|---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Pipeta Pasteur | Asimilables a urbanos |
+| Reactivo BHI | Urbanos o asimilables a los urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -149,7 +149,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 |---|---|
 | Cálculos (si procede) | Por la fórmula que aparece en la práctica:**m (g) = C (g/L) × 0,050 L**, y sabiendo que la concentración del reactivo BHI es 37g/l, la masa de BHI que debemos pesar para realizar una disolución en 50ml (0,05l) es de **1,85g** y al utilizar 6 tubos transvasando 8ml de la disolución comprobamos que queda un margen de 2ml sin utilizar (6 × 8 = 48 mL) |
 | Configuración de equipos (si procede) | La balanza se ha tarado antes de realizar el pesado y se ha utilizado se ha utilizado una pipeta de vidrio graduada de 10ml con prepipeta de pera; el autoclave se han programado 15min a 121ºC, que se corresponde con el programa 4 ya creado en el autoclave del laboratorio |
-| Características del producto o resultado final | Se han realizado 6 tubos en el que se dispensó 8ml en cada uno, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Características del producto o resultado final | Se han realizado 6 tubos en el que se dispensó 8ml en cada uno, al realizar la disolución de caldo de BHI se observa un líquido de color ocre/marrón claro con olor característico, además, en todo momento se realizó según la etiqueta del fabricante y lo que este indicaba; como se esperaba de la práctica han sobrado 2ml del caldo de BHI, observado por todo el equipo al succionar el sobrante con la pipeta de vidrio. Todos los controles fueron óptimos |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -217,7 +217,7 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectó ninguna incidencia | - | No procede | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
