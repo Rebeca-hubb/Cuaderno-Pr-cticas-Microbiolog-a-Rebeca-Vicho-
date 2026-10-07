@@ -117,10 +117,10 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 - **Nombre y apellidos:** Rebeca Vicho Píriz
 - **Fecha real de realización:** 07/10/2026
 - **Grupo:** 2º LCB
-- **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Equipo de trabajo, si procede:** Diego Pacheco, Rebeca Vicho, Paula Escobar, Miriam García, Ariadna Seguro y Cristina Manzano.
+- **Rol o tarea principal que realizaste:** Medida del disolvente (50ml), preparación del material de trabajo y transvase de la disulución de BHI (8ml).
+- **Modalidad realmente realizada:** Preparación completa supervisada; 
+- **Medio preparado:** Caldo BHI; fabricante: Pronadisa Laboratorios Conda S.A.; referencia no procede y lote: 608301.
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -147,9 +147,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
-| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
-| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Cálculos (si procede) | Por la fórmula que aparece en la práctica:**m (g) = C (g/L) × 0,050 L**, y sabiendo que la concentración del reactivo BHI es 37g/l, la masa de BHI que debemos pesar para realizar una disolución en 50ml (0,05l) es de **1,85g** y al utilizar 6 tubos transvasando 8ml de la disolución comprobamos que queda un margen de 2ml sin utilizar (6 × 8 = 48 mL) |
+| Configuración de equipos (si procede) | La balanza se ha tarado antes de realizar el pesado y se ha utilizado se ha utilizado una pipeta de vidrio graduada de 10ml con prepipeta de pera; el autoclave se han programado 15min a 121ºC, que se corresponde con el programa 4 ya creado en el autoclave del laboratorio |
+| Características del producto o resultado final | Se han realizado 6 tubos en el que se dispensó 8ml en cada uno, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -160,6 +160,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 - **Archivo previsto:** `../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg`
 
 ![Pesada del BHI deshidratado](../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg)
+![Pesada del BHI deshidratado](../assets/P07/pesada_o_preparacion_de_los_componentes_01.1.jpg)
 
 *Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
