@@ -148,7 +148,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 | Aspecto | Registro del alumnado |
 |---|---|
 | Cálculos (si procede) | Por la fórmula que aparece en la práctica:**m (g) = C (g/L) × 0,050 L**, y sabiendo que la concentración del reactivo BHI es 37g/l, la masa de BHI que debemos pesar para realizar una disolución en 50ml (0,05l) es de **1,85g** y al utilizar 6 tubos transvasando 8ml de la disolución comprobamos que queda un margen de 2ml sin utilizar (6 × 8 = 48 mL) |
-| Configuración de equipos (si procede) | La balanza se ha tarado antes de realizar el pesado y se ha utilizado se ha utilizado una pipeta de vidrio graduada de 10ml con prepipeta de pera; el autoclave se han programado 15min a 121ºC, que se corresponde con el programa 4 ya creado en el autoclave del laboratorio |
+| Configuración de equipos (si procede) | La balanza se ha tarado antes de realizar el pesado y se ha utilizado una pipeta de vidrio graduada de 10ml con prepipeta de pera; el autoclave se han programado 15min a 121ºC, que se corresponde con el programa 4 ya creado en el autoclave del laboratorio |
 | Características del producto o resultado final | Se han realizado 6 tubos en el que se dispensó 8ml en cada uno, al realizar la disolución de caldo de BHI se observa un líquido de color ocre/marrón claro con olor característico, además, en todo momento se realizó según la etiqueta del fabricante y lo que este indicaba; como se esperaba de la práctica han sobrado 2ml del caldo de BHI, observado por todo el equipo al succionar el sobrante con la pipeta de vidrio. Todos los controles fueron óptimos |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
