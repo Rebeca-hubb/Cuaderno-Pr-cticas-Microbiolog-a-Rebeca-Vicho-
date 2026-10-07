@@ -186,7 +186,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 3. Medida de una alícuota y conjunto de seis tubos antes del autoclave; indica el volumen dispensado.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Pie del alumnado:** Se absorben 8ml de la disolución con una pipeta y la pera auxiliar, y se echan con cuidado en los tubos que posteriormente entraremos en el autoclave, es importante realizar la dispensación correctamente para que todos los tubos tengan la misma cantidad y obtener un resultado adecuado.
 - **Autoría y modalidad:** Compartida con el grupo
 
 ### Imagen 4 — Acondicionamiento y registro del ciclo
@@ -259,15 +259,15 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Identificador de práctica | `P07` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
+| Agrupamiento | Equipo: Diego Pacheco, Rebeca Vicho, Paula Escobar, Miriam García, Ariadna Seguro y Cristina Manzano. |
 | Medio, dosis y preparación | [BHI: fabricante/referencia, dosis de etiqueta, masa calculada/pesada y preparación de 50 mL] |
-| Dispensación y esterilización | [Seis tubos: volumen dispensado, identificación, ciclo y controles; indica incidencias y modalidad] |
-| Componentes, lotes y caducidades relevantes | [Completa] |
+| Dispensación y esterilización | [Seis tubos: 8ml en cada tubo, rotulado con el número del grupo, solución y fecha, ciclo de autoclave 15min a 121º(, sin incidencias detectadas y controles correctos |
+| Componentes, lotes y caducidades relevantes | Reactivo BHI con lote 608..... con caducidad........ |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Completa] |
+| Ruta de residuos y conservación | Todos los residuos son asimilables a urbanos |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
