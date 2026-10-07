@@ -114,9 +114,9 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
+- **Nombre y apellidos:** Rebeca Vicho Píriz
+- **Fecha real de realización:** 07/10/2026
+- **Grupo:** 2º LCB
 - **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
@@ -131,9 +131,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Agua destilada, espátula y recipiente de pesada; material volumétrico adecuado a 50 mL; recipiente de preparación y agitación; pipeta o dispensador adecuado para medir 8 mL; seis tubos autoclavables con capacidad suficiente para el volumen y el espacio de seguridad; cierres compatibles, gradilla o cestillo autoclavable, etiquetas. |
+| Equipos | Balanza, autoclave |
+| Reactivos/materiales | Caldo BHI deshidratado con corrector de pH incorporado, etiqueta o ficha técnica y FDS.  |
 
 | Residuo previsto | Tipo |
 |---|---|
