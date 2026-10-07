@@ -264,7 +264,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Dispensación y esterilización | [Seis tubos: 8ml en cada tubo, rotulado con el número del grupo, solución y fecha, ciclo de autoclave 15min a 121º(, sin incidencias detectadas y controles correctos |
 | Componentes, lotes y caducidades relevantes | Reactivo BHI con lote 608..... con caducidad........ |
 | Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
+| Resultado | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#9-observaciones-y-resultados-alumnado--rellenable--durante |
 | Interpretación | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos y conservación | Todos los residuos son asimilables a urbanos |
