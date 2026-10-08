@@ -197,7 +197,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 4. Soporte, cierres o registro del ciclo autorizado; identifica si realizaste u observaste esta fase.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Pie del alumnado:** Se realizó la comprobación del estado del autoclave, y se programó el ciclo específico que se muestra en la imagen adjunta.
 - **Autoría y modalidad:** Compartida con el grupo
 
 ### Imagen 5 — Caldo BHI final y estado de control
@@ -268,7 +268,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#91-registro-de-observaciones-y-c%C3%A1lculos |
 | Resultado | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#9-observaciones-y-resultados-alumnado--rellenable--durante |
 | Interpretación | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Incidencias y acciones correctoras | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante |
 | Ruta de residuos y conservación | Todos los residuos son asimilables a urbanos |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
