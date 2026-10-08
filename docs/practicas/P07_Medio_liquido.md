@@ -208,7 +208,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 5. Tubos de BHI tras el enfriamiento; describe aspecto, integridad y controles realizados o pendientes.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Pie del alumnado:** Tras el enfriamiento de los tubos se observa el mismo aspecto de la preparación, siendo homogénea y preservando su integridad. Los controles que se realizaron fueron observan si alcanzó lo programado (15min a 121ºC) y que se retiraran tras enfriarse.
 - **Autoría y modalidad:** Compartida con el grupo
 
 Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imágenes para documentar una fase no realizada. Sube cada archivo a la ruta indicada y comprueba la vista previa.
