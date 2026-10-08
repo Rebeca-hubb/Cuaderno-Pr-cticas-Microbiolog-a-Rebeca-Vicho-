@@ -238,19 +238,21 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento:** ¿Qué precaución específica tomaste al elegir los tapones o cierres de los tubos antes de introducirlos en el autoclave y qué consecuencias de seguridad habría tenido cerrarlos herméticamente?
 
-   [Respuesta del alumnado]
+   La precaución que tomé fue observar que fueran compatibles con el autoclave y además al colocarlos en los tubos, comprobar que no estuvieran cerrados herméticamente, lo que supondría la explosión del tubo al cambio de presión en el autoclave.
 
 **2. Interpretación:** El procedimiento indica que no se debe añadir corrector de pH, pero que podría exigirse su comprobación. Si tuvieras que medir el pH del BHI reconstituido, ¿en qué momento exacto del procedimiento descrito lo harías y por qué sería un error medirlo *después* de que los tubos salgan del autoclave?
 
-   [Respuesta del alumnado]
+   Lo mediría justo en el paso 6. "Comprueba la disolución y el aspecto conforme a la ficha. No añadas corrector de pH: ya está incorporado. Si se exige comprobar el pH, sigue la indicación docente y registra el resultado". Medir el pH después de que los tubos salgan del autoclave sería un error puesto que debido al calor el pH varía y no sería el que queremos medir.
 
 **3. Conclusiones:** Si dentro de unos días observaras que uno de los tubos almacenados presenta turbidez sin haber sido inoculado por nadie, ¿qué fallo en el procedimiento, material o equipo deducirías que ha ocurrido?
 
-   [Respuesta del alumnado]
+   Sin explicación más allá del razonamiento propio, diría que ha sido un error en la pesada del reactivo BHI o no comprobar si los tapones estaban bien cerrados.
 
 **4. Aprendizaje y transferencia:** Imagina que en un laboratorio real te piden escalar esta preparación para hacer 150 tubos de 8 mL de BHI. ¿Cómo modificarías tus cálculos iniciales de masa y volumen total (incluyendo un margen de seguridad proporcional)?
 
-   [Respuesta del alumnado]
+   Según la fórmula que utilizamos al principio, **m (g) = C (g/L) × 0,050 L**, y si para 6 tubos hicimos 50ml, solo haría falta realizar una regla de 3 básica (si para 6 tubos hemos realizado 50ml, para 150 tubos necesitaríamos x ml).
+   Resolviendo esta regla de 3 nos da que x = 1250 ml (1,25 l)
+   Ahora sustituyendo en la ecuación: m (g) = 37 x 1,25; m = **46,25 g de BHI**.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -260,9 +262,9 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
 | Agrupamiento | Equipo: Diego Pacheco, Rebeca Vicho, Paula Escobar, Miriam García, Ariadna Seguro y Cristina Manzano. |
-| Medio, dosis y preparación | [BHI: fabricante/referencia, dosis de etiqueta, masa calculada/pesada y preparación de 50 mL] |
+| Medio, dosis y preparación | BHI: fabricante: Pronadisa Laboratorios Conda S.A., dosis de etiqueta: 37g/l, masa calculada/pesada: 1,85g y preparación de 50 mL: medir en una probeta 50ml de agua destilada, enrasar con una pipeta Pasteur, verter el agua en un vaso de precipitado y calentar. Depositar la masa del reactivo ya pesado en el vaso de precipitado y disolver con una varilla de vidrio. |
 | Dispensación y esterilización | [Seis tubos: 8ml en cada tubo, rotulado con el número del grupo, solución y fecha, ciclo de autoclave 15min a 121º(, sin incidencias detectadas y controles correctos |
-| Componentes, lotes y caducidades relevantes | Reactivo BHI con lote 608..... con caducidad........ |
+| Componentes, lotes y caducidades relevantes | Reactivo BHI con lote 608301 y caducidad 08/2020 |
 | Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#91-registro-de-observaciones-y-c%C3%A1lculos |
 | Resultado | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#9-observaciones-y-resultados-alumnado--rellenable--durante |
 | Interpretación | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
