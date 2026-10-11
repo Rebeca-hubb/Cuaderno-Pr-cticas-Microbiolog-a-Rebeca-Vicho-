@@ -191,42 +191,47 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 ![Preparación húmeda sin concentración](../assets/P02/1_preparacion_sin_concentracion.jpg)
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
 - **Pie de foto:** Con una pipeta Pasteur se cogió agua del recipiente con la muestra y, en el centro del portaobjetos se depositó una pequeña gota de agua, cubierta posteriormente con el cubreobjetos que se coloca apoyando por un lado a unos 45º y dejarlo caer sobre la gota de agua, evitando así la formación de salpicaduras y/o burbujas. La muestra ha sido obtenida de una fuente urbana.
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Imagen del alumnado:** 
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
 ![Campo microscópico de la preparación sin concentración](../assets/P02/02_campo_sin_concentracion.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** No se ha conseguido identificar ningún cuerpo o microorganismo.
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Imagen del alumnado:** 
 
 ### Imagen 3 — Centrifugación de la muestra
 
 ![Centrifugación de la muestra](../assets/P02/03_centrifugación_muestra.jpg)
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
 - **Pie de foto:** Se ha usado una centrifugadora de mesa programada a 2300 rpm durante 3 minutos.
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Imagen del alumnado:** 
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
 ![Campo microscópico de la preparación concentrada](../assets/P02/04_campo_con_concentración.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** Aunque se observan más cuerpos que en el agua sin centrifugar, sigue sin ser reconocido ningún cuerpo. 
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Imagen del alumnado:** 
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
 ![Limpieza del puesto y eliminación de residuos](../assets/P02/05_limpieza_eliminación.jpg)
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** Tras finalizar la práctica, los portaobjetos se eliminaron en el contenedor de residuos cortopunzantes, mientras que la pipeta Pasteur y el papel de filtro de eliminaron en el contenedor de residuos asimilables a urbanos, el microscopio se colocó en su lugar y, finalmente, la muestra de agua se guardó para seguir haciendo prácticas.
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Imagen del alumnado:** 
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
+
 | No recoger agua estancada | No tenía conocimiento de que el agua de las fuentes urbanas estaba tratada | Observar esa muestra sabiendo que ni iba a encontrar microorganismos vivos | Sí |
+
 | Volumen distinto en la centrifugación | Cambio de procedimiento | Cambiar en el protocolo el volumen que centrifugar | No |
 
+| Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? | 
+| No recoger agua estancada | No tenía conocimiento de que el agua de las fuentes urbanas estaba tratada | Observar esa muestra sabiendo que ni iba a encontrar microorganismos vivos | Sí | 
+| Volumen distinto en la centrifugación | Cambio de procedimiento | Cambiar en el protocolo el volumen que centrifugar | No | 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
@@ -273,7 +278,7 @@ Mejoraría la procedencia de la muestra si esta depende de mí.
 | Modalidad y origen de la muestra o evidencia | Agua de fuente urbana |
 | Materiales o lotes relevantes | No aplicaba |
 | Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#91-comprobaci%C3%B3n-de-calidad-de-la-preparaci%C3%B3n |
-| Resultado | [Resume o enlaza al apartado 9.3] |
+| Resultado | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#93-resultado-principal |
 | Interpretación | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s |
 | Incidencias y acciones correctoras | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos aplicada | Los portaobjetos se desecharon en el contenedor para residuos cortopunzantes, la muestra líquida sobrante se eliminó por el desagüe mientras corre agua del grifo y las pipetas Pasteur, recipientes donde estaban contenidas las muestras, los guantes y el papel absorbente tras desinfectar la zona de trabajo se eliminaron en el contenedor de residuos asimilables a urbanos  |
