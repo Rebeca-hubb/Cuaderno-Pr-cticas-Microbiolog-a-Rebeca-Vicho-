@@ -224,7 +224,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
-|No recoger agua estancada| No tenía conocimiento de que el agua de las fuentes urbanas estaba tratada |Observar esa muestra sabiendo que ni iba a encontrar microorganismos vivos |Sí|
+| No recoger agua estancada | No tenía conocimiento de que el agua de las fuentes urbanas estaba tratada | Observar esa muestra sabiendo que ni iba a encontrar microorganismos vivos | Sí |
 | Volumen distinto en la centrifugación | Cambio de procedimiento | Cambiar en el protocolo el volumen que centrifugar | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
@@ -274,8 +274,8 @@ Mejoraría la procedencia de la muestra si esta depende de mí.
 | Materiales o lotes relevantes | No aplicaba |
 | Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#91-comprobaci%C3%B3n-de-calidad-de-la-preparaci%C3%B3n |
 | Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [[Resume o enlaza al apartado 11]](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
+| Interpretación | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s |
+| Incidencias y acciones correctoras | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P02_Observacion_en_fresco.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos aplicada | Los portaobjetos se desecharon en el contenedor para residuos cortopunzantes, la muestra líquida sobrante se eliminó por el desagüe mientras corre agua del grifo y las pipetas Pasteur, recipientes donde estaban contenidas las muestras, los guantes y el papel absorbente tras desinfectar la zona de trabajo se eliminaron en el contenedor de residuos asimilables a urbanos  |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
