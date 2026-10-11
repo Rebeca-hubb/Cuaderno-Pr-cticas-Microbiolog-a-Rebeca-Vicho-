@@ -203,7 +203,8 @@ En esta práctica espero encontrar más cuerpos que los observados en la prepara
 
 Resume qué aportó la tinción a la observación y qué información debe interpretarse con cautela. Indica expresamente si el resultado procede de una ejecución propia, una preparación docente o material audiovisual.
 
-[Escribe aquí el resultado principal.]
+Al haber realizado anteriormente una observación al microscopio óptico de una muestra de agua contaminada sin tinción se resume que, al teñir la misma muestra que en la práctica mencionada, se identifican más cuerpos extraños y se observan mejor sus morfologías, facilitando su encuentro e identificación.
+Hay que prestar especial atención a la hora de preparar la tinción, ya que es 1:1 (1 gota de azul de metileno y 1 gota de la muestra de agua), sin embargo, la gota de azul de metileno debe ser pequeña y luego esparcirla de forma circular para que se mezcle con la gota de muestra. Si no se hace de la manera adecuada y se deposita, por ejemplo, mucho colorante luego al observarse al microscopio habrá artefactos producto de exceso de colorante.
 
 ## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -215,19 +216,17 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ![Preparación del colorante](../assets/P03/01_preparacion_colorante.jpg)
 - **Texto alternativo:** Preparación autorizada de la solución de azul de metileno.
-- **Pie de foto:** [Describe la pesada y preparación de la solución; registra la concentración final indicada en la etiqueta.]
-- **Control de seguridad o calidad visible:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica o escribe «No aplica» si no preparaste la solución.]
+- **Pie de foto:** El colorante estaba ya preparado en el laboratorio.
+- **Control de seguridad o calidad visible:** Recipiente con cierre hermético, papel de filtro, utilización de guantes.
+- **Autoría:** Propia
 
 ### Imagen 2 — Proceso de tinción
 
 ![Proceso de tinción](../assets/P03/02_tincion.jpg)
 - **Texto alternativo:** Aplicación del azul de metileno a la muestra en el portaobjetos.
-- **Pie de foto:** [Describe la aplicación del colorante y la preparación del portaobjetos.]
-- **Medida de seguridad o calidad que demuestra:** [Completa]
+- **Pie de foto:** Se deposita una gota de la muestra de agua en el centro del portaobjetos con una pipeta Pasteur, luego con un  pipeta Pasteur nueva se deposita una gota pequeña de azul de metileno sobre la gota de agua, con la misma pipeta Pasteur se mezcla suavemente y quedando en el centro del portaobjetos la gota de colorante con la de agua. Finalmente se cubre con un cubreobjetos y se elimina el exceso de preparación con papel absorbente sin presionarlo sobre los bordes del cubreobjetos.
+- **Medida de seguridad o calidad que demuestra:** guantes, papel de filtro, material estéril.
 - **Autoría:** Propia
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Campo microscópico teñido sin centrifugación
 
@@ -235,18 +234,16 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 - **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
 - **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
 - **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Autoría:** Propia 
 
 ### Imagen 4 — Proceso de centrifugación
 
 ![Proceso de centrifugación](../assets/P03/04_proceso_centrifugacion.jpg)
 - **Texto alternativo:** Tubo y centrífuga durante la preparación concentrada.
-- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
-- **Control de seguridad o calidad visible:** [Completa]
+- **Pie de foto:** Se utiliza una centrifugadora de mesa programada 5 min a 2000 rpm
+- **Control de seguridad o calidad visible:** Tubos compensados y bien cerrados, centrifugadora con controles óptimos y estructura correcta.
 - **Autoría:** [Propia / compartida con tu pareja]
-- **Modalidad no realizada:** [Escribe «No aplica» y explica el motivo, si no se realizó centrifugación.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+- **Modalidad no realizada:** No aplica
 
 ### Imagen 5 — Campo microscópico teñido con centrifugación
 
@@ -254,15 +251,14 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 - **Texto alternativo:** Campo microscópico de la preparación teñida tras centrifugación.
 - **Pie de foto:** [Describe el campo, identifica la fracción observada y registra el aumento.]
 - **Rasgo observado y limitación:** [Completa; no infieras movilidad ni viabilidad tras la concentración.]
-- **Autoría:** [Propia / compartida con tu pareja]
+- **Autoría:** Propia
 - **Modalidad no realizada:** [Escribe «No aplica» y explica el motivo, si no se realizó esta preparación.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectó ninguna incidencia | - | - | No |
 
 ## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -301,9 +297,9 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P03` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 01/09/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Individual |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
 | Reactivo y lote o referencia | [Completa] |
 | Controles | [Resume o enlaza al apartado 9.1] |
@@ -322,3 +318,4 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 ## Anexo. Láminas de organismos microscópicos y microfauna de agua dulce
 
 Las láminas reúnen ejemplos de organismos que pueden aparecer en muestras de agua dulce: eucariotas unicelulares —rizópodos, flagelados, ciliados, algas unicelulares y diatomeas— y formas pluricelulares microscópicas o de pequeño tamaño —cladóceros, copépodos, rotíferos y algas pluricelulares—. Los dibujos y nombres sirven para comparar rasgos morfológicos y proponer identificaciones orientativas; la presencia depende de la muestra y no confirma por sí sola lo observado. Las capturas fueron proporcionadas como material docente y no muestran los datos de autoría ni la publicación original.
+![Láminas de referencia con categorías, dibujos y nombres de organismos unicelulares y pluricelulares de agua dulce](../assets/P02/anexo_microorganismos.jpg) 
