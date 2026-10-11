@@ -270,7 +270,7 @@ Interpreta los resultados de la tinción usando los controles de calidad, las ob
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar la tinción vital directa con azul de metileno. Si realizaste la ruta centrifugada, describe por separado la preparación concentrada y teñida, y menciona sus límites. Sustenta tu conclusión con evidencias concretas.
 
-[Escribe aquí tu conclusión.]
+.............................................
 
 ## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
