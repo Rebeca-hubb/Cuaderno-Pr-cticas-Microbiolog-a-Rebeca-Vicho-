@@ -307,7 +307,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Reactivo y lote o referencia | Colorante azul de metilo. Referencia y lote desconocidos |
 | Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#91-comprobaci%C3%B3n-de-calidad) |
 | Resultado | [Apartado 10](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#10-comparaci%C3%B3n-con-la-observaci%C3%B3n-en-fresco-alumnado--rellenable--durante-y-despu%C3%A9s) |
-| Interpretación | [Resume o enlaza al apartado 13] |
+| Interpretación | [Apartado 13](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#13-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#12-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos aplicada | Todos los residuos al ser clasificados como asimilables a urbanos se desecharon en el contenedor del laboratorio a excepción de los portaobjetos utilizados, desechados en el contenedor de residuos cortopunzantes |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
