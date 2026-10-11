@@ -232,7 +232,7 @@ Hay que prestar especial atención a la hora de preparar la tinción, ya que es 
 
 ![Campo microscópico teñido sin centrifugación](../assets/P03/03_campo_tenido_sin_centrifugacion.jpg)
 - **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
-- **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
+- **Pie de foto:** Campo observado con aumento de 40x
 - **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
 - **Autoría:** Propia 
 
@@ -242,7 +242,7 @@ Hay que prestar especial atención a la hora de preparar la tinción, ya que es 
 - **Texto alternativo:** Tubo y centrífuga durante la preparación concentrada.
 - **Pie de foto:** Se utiliza una centrifugadora de mesa programada 5 min a 2000 rpm
 - **Control de seguridad o calidad visible:** Tubos compensados y bien cerrados, centrifugadora con controles óptimos y estructura correcta.
-- **Autoría:** [Propia / compartida con tu pareja]
+- **Autoría:** Propia
 - **Modalidad no realizada:** No aplica
 
 ### Imagen 5 — Campo microscópico teñido con centrifugación
@@ -270,7 +270,9 @@ Interpreta los resultados de la tinción usando los controles de calidad, las ob
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar la tinción vital directa con azul de metileno. Si realizaste la ruta centrifugada, describe por separado la preparación concentrada y teñida, y menciona sus límites. Sustenta tu conclusión con evidencias concretas.
 
-.............................................
+Se alcanzó el objetivo, ya que la preparación y observación se efectuaron de forma según el protocolo, consiguiendo una buena nitidez al observar la preparación al microscopio y siendo capaz de identificar las diferencias en cuanto a la tinción vital directa con azul de metileno antes y después de la centrifugación de la muestra, observando mayor concentración de cuerpos en la centrifugada.
+De la preparación centrifugada según se especifica en apartados anteriores se consigue obtener una gota del sedimento, donde se pueden observar mayor número de identificables.
+Los límites que muestra esta preparación es la dependencia de equipo de laboratorio (centrifugadora), por lo que resulta un proceso más lento que el primero. 
 
 ## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -278,11 +280,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** Al preparar o recibir la solución de azul de metileno al 0,5 % p/v, ¿qué comprobaste sobre la pesada, el volumen final de 100 mL, la etiqueta y la FDS? Si no la preparaste, indica quién proporcionó la solución y qué verificaste antes de usarla.
 
-   [Respuesta del alumnado]
+   No se realizó la solución de azul de metileno. Se proporcionó del laboratorio y se verificó que estuviera en buen estado y bien conservada.
 
 2. **Interpretación:** Compara los campos teñidos directo y tras centrifugación (imágenes 3 y 5), si realizaste ambas modalidades. ¿Qué diferencias de contraste o morfología observaste? Contrástalas con el anexo sin convertir la semejanza en una identificación confirmada; no infieras movilidad ni viabilidad tras centrifugar.
 
-   [Respuesta del alumnado]
+   ........................................
 
 3. **Conclusiones:** Comparando la misma muestra en fresco en P02 con la preparación teñida directa de P03, ¿qué información aporta cada modalidad y cuál permitió describir mejor los rasgos observados? Si también centrifugaste, explica qué añadió esa preparación y qué limitación tuvo. Sustenta la conclusión con tus evidencias reales.
 
@@ -290,7 +292,8 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 4. **Aprendizaje y transferencia:** ¿En qué situación elegirías observar la muestra sin tinción y sin centrifugar, sin tinción y centrifugada, teñida y sin centrifugar, o teñida y centrifugada? Justifica cada elección según el objetivo de observación y las limitaciones de la muestra; en la preparación centrifugada no infieras movilidad ni viabilidad.
 
-   [Respuesta del alumnado]
+   Para observar microorganismos vivos y su movimiento elegiría la muestra sin tinción y sin centrifugar para no interferir en la movilidad de estos.
+   Si es para observar la morfología de microorganismos me decantaría por la muestra teñida sin centrifugar, ya que la centrifugada creo que puede interferir en el resultado o modificar alguna estructura.
 
 ## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -300,13 +303,13 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | 01/09/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
 | Agrupamiento | Individual |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Reactivo y lote o referencia | [Completa] |
+| Modalidad y origen de la muestra o evidencia | Real autorizada. Muestra de fuente urbana. |
+| Reactivo y lote o referencia | Colorante azul de metilo. Referencia y lote desconocidos |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 10] |
 | Interpretación | [Resume o enlaza al apartado 13] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
-| Ruta de residuos aplicada | [Completa] |
+| Ruta de residuos aplicada | Todos los residuos al ser clasificados como asimilables a urbanos se desecharon en el contenedor del laboratorio a excepción de los portaobjetos utilizados, desechados en el contenedor de residuos cortopunzantes |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ## Referencia técnica
