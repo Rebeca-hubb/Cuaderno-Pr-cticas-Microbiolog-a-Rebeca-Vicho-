@@ -305,7 +305,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | Individual |
 | Modalidad y origen de la muestra o evidencia | Real autorizada. Muestra de fuente urbana. |
 | Reactivo y lote o referencia | Colorante azul de metilo. Referencia y lote desconocidos |
-| Controles | [Resume o enlaza al apartado 9.1] |
+| Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#91-comprobaci%C3%B3n-de-calidad) |
 | Resultado | [Resume o enlaza al apartado 10] |
 | Interpretación | [Resume o enlaza al apartado 13] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
