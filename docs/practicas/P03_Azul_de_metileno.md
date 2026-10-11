@@ -308,7 +308,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#91-comprobaci%C3%B3n-de-calidad) |
 | Resultado | [Apartado 10](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#10-comparaci%C3%B3n-con-la-observaci%C3%B3n-en-fresco-alumnado--rellenable--durante-y-despu%C3%A9s) |
 | Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P03_Azul_de_metileno.md#12-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos aplicada | Todos los residuos al ser clasificados como asimilables a urbanos se desecharon en el contenedor del laboratorio a excepción de los portaobjetos utilizados, desechados en el contenedor de residuos cortopunzantes |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
