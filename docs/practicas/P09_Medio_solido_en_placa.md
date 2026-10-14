@@ -103,9 +103,9 @@ El documento adjunto aporta ejemplos históricos de formulación, vertido y cons
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
+- **Nombre y apellidos:** Rebeca Vicho Píriz
+- **Fecha real de realización:** 14/10/2026
+- **Grupo:** 2º LCB
 - **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Preparación y vertido supervisados / preparación sin autoclave o vertido / demostración / análisis de placas docentes / otra; descríbela]
@@ -232,7 +232,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P09` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 14/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
 | Agrupamiento | [Individual / equipo; especifica] |
 | Medio, fórmula, volumen y número de placas | [Completa] |
