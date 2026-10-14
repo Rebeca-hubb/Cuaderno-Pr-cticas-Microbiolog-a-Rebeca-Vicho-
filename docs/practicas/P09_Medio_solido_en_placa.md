@@ -239,7 +239,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Componentes, lotes y caducidades relevantes | [Completa] |
 | Controles | [Resume o enlaza al apartado 10.2] |
 | Resultado | [Resume o enlaza al apartado 10] |
-| Interpretación | [Resume o enlaza al apartado 13] |
+| Interpretación | [Apartado 13](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#13-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos y conservación | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
