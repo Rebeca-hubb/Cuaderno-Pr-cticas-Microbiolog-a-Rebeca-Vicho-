@@ -153,10 +153,11 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 ### Imagen 1 — Pesada y transferencia del medio desecado
 
 ![Pesada y transferencia del medio desecado](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
-
-- **Pie de foto:** [Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente]
+![Pesada y transferencia del medio desecado](../assets/P09/transferencia_01.jpg)
+- **Pie de foto:** En la foto de la pesada se observa la balanza en la que aparece un vidrio de reloj con el agar nutritivo desecado que debemos pesar.
+  En la foto de la transferencia se observa el agar nutritivo cayendo al vaso de precipitado con agua destilada para su posterior disolución.
 - **Dato de trazabilidad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Autoría y origen:** Pesada: Propia; Transferencia: compartida 
 
 ### Imagen 2 — Calentamiento del medio tras la mezcla
 
