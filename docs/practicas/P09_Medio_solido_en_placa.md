@@ -217,19 +217,23 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión sobre la fórmula, el agente gelificante o la dispensación consideras más crítica para obtener placas de calidad y cómo comprobaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   Considero más crítico el paso de calcular el agar nutritivo necesario para el volumen que se debe preparar, ya que la consistencia y la gelificación o no dependen de la buena pesada y del cálculo. Si no se realiza de forma correcta luego las placas no quedarán con la consistencia adecuada para sembrar sobre ese medio de cultivo.
 
 2. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
-   [Respuesta del alumnado]
+   Esa condensación excesiva se debe a que al verter el medio de cultivo todavía líquido y no suficientemente frío entra en contacto con las placas frías y se crea vapor de agua que se condensa.
+   Esto puede perjudicar en el momento de realizar una siembra por extensión o estría en que esas gotas de agua caigan sobre las colonias y las disperse, que no se pueda sembrar bien debido a las gotas de agua, y, en general, hace que los resultados no sean fiables.
 
-3. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
+4. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
-   [Respuesta del alumnado]
+   Los datos mínimos que deben contener son:
+   - Fecha de realización
+   - Nombre del medio de cultivo que contiene
+   - Grupo que lo ha realizado para que cada grupo utilice las suyas en prácticas posteriores
 
-4. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
+6. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
-   [Respuesta del alumnado]
+   Con más práctica podré obtener una destreza a la hora de verter de forma estéril el medio que realice en la placas que será clave para que no se contaminen, que el volumen vertido se aproxime lo máximo a lo que debería ser (3-4 mm de grosor) y para que se de el buen crecimiento de las colonias por otros factores como evitando la condensación de las placas.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -243,7 +247,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Componentes, lotes y caducidades relevantes | Agar nutritivo comercial, fabricante: , lote: 111131, caducidad: y dosis consultada: 23 g/l |
 | Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Resultado | [Apartado 9](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#9-observaciones-y-resultados-alumnado--rellenable--durante) |
-| Interpretación | Apartado 12 |
+| Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos y conservación |Todos los residuos generados se consideran asimilables a urbanos, por lo que se desecharon en el contenedor así acondicionado en el laboratorio|
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
