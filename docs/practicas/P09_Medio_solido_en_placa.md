@@ -146,6 +146,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Cálculos (si procede) |Según la fórmula: **masa de polvo (g) = dosificación indicada (g/L) × 0,125 L**, calculamos la masa de agar nutritivo que pesaremos posteriormente para realizar el medio de cultivo. La dosificación indicada es de 23 gramos por litro, este dato lo cogeremos del bote de agar nutritivo, y el resultado de la masa de polvo es de 2,875g, que redondeamos a 2,88g porque la balanza no da el resultado con tres decimales.
 | Configuración de equipos (si procede) | Hemos usado una balanza portátil de la marca Metria, el calentamiento del agua destilada hemos utilizado un microondas de la marca Bluesky y para autoclavar el medio de cultivo hemos usado un autoclave de la marca Presoclave 3 plus, con el programa 4.|
+| Hemos obtenido 125 ml del medio de cultivo para 6 placas de cultivo. Tiene un color amarillento y la cantidad de medio de cultivo es escaso para las 6 placas. Hay que esperar para que se enfríe y gelifique y entonces ya estaría listo para la siembra |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -166,7 +167,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 - **Pie de foto:** Se ha utilizado el microondas y la placa calefactora en nuestro caso para llevar a ebullición
 - **Control o decisión técnica que demuestra:** El agar se disolvió en un vaso de precipitado, agua caliente y un varilla de vidrio. Tras no quedar grumos la mezcla se llevó a un frasco de autoclave, que no se cerró del todo y se calentó hasta ebullición en el microondas.
-- **Autoría y origen:** Ejecución propia
+- **Autoría y origen:** Compartida
 
 ### Imagen 3 — Recipiente dentro del autoclave
 
@@ -180,17 +181,17 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ![Incorporación aséptica del medio esterilizado a las placas](../assets/P09/dispensacion_aseptica_en_placas_04.jpg)
 
-- **Pie de foto:** [La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica]
-- **Zona autorizada y control aplicado:** [Cabina de seguridad biológica o entorno de la llama; explica la técnica aséptica observada]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** La imagen mostre cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica entorno a la llama del mechero Bünsen.
+- **Zona autorizada y control aplicado:** En el entorno de la llama se crea una zona de asepsia donde se llenarán las placas con el medio aún líquido pero ya frío. Se debe acercar la boca de la botella con el medio antes de llenar la placa para, pero con cuidado de no dejarlo demasiado tiempo cerca de la llama, ya que la parte de plástico se podría quemar. Al llenar la placa no se pueden alejar las demás para que no se contaminen.
+- **Autoría y origen:** Compartida con el grupo
 
 ### Imagen 5 — Placas finales etiquetadas o control de calidad
 
 ![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_05.jpg)
 
-- **Pie de foto:** [Aspecto, grosor, rotulado o control de las placas]
-- **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Las placas se observan con el aspecto adecuado, con un grosor de aproximadamente 3-4 mm, y han sido rotuladas con la fecha de la preparación, el grupo que lo realizó y el medio de cultivo que contienen.
+- **Relación con el resultado principal:** Esta evidencia respalda la conclusión, ya que, a pesar de las incidencias, se pudo realizar el llenado de las placas sin ningún problema.
+- **Autoría y origen:** Compartida con el grupo
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -202,7 +203,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+Las placas preparadas cumplen, aparentemente, los criterios de homogeneidad, solidificación y etiquetado. El medio presenta un aspecto uniforme y un color amarillento. Sin embargo, para confirmar su calidad, es necesario comprobar que no exista contaminación y que el medio esté correctamente solidificado. Por tanto, su aspecto es adecuado, aunque debe verificarse antes de utilizarlo.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
