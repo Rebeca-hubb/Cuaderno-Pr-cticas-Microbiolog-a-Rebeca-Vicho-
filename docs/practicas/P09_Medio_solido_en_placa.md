@@ -209,7 +209,7 @@ Las placas preparadas cumplen, aparentemente, los criterios de homogeneidad, sol
 
 ¿En qué medida el procedimiento y el medio obtenido permiten considerar alcanzado el objetivo de preparar 125 mL de Agar nutritivo en placa? Justifica tu valoración relacionándola con el resultado y señala cualquier limitación que condicione su uso.
 
-[Escribe aquí tu conclusión.]
+En conclusión, hemos conseguido preparar el agar nutritivo y echarlo en las placas Petri, cumpliendo el objetivo de la práctica. Ya que se ha solidificado correctamente para su posterior uso, crecer microorganismos. Como limitación, podemos decir que aunque el Agar se haya solidificado bien, no podemos asegurar que esté libre de contaminación.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -236,16 +236,16 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P09` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 14/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, fórmula, volumen y número de placas | [Agar nutritivo comercial; fabricante/dosis según etiqueta; 125 mL objetivo; número real de placas] |
-| Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante, lote, caducidad y dosis consultada] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Según PNT local; completa modalidad y ubicación, sin inferir condiciones] |
+| Agrupamiento | Equipo: Diego Pacheco, Cristina Manzano y Rebeca Vicho |
+| Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; fabricante: ; dosis: 2,87 g; 125 mL objetivo; 6 placas |
+| Componentes, lotes y caducidades relevantes | Agar nutritivo comercial, fabricante: , lote: 111131, caducidad: y dosis consultada: 23 g/l |
+| Controles | Apartado 9.1 |
+| Resultado | Apartado 9 |
+| Interpretación | Apartado 12 |
+| Incidencias y acciones correctoras | Apartado 11 |
+| Ruta de residuos y conservación |Todos los residuos generados se consideran asimilables a urbanos, por lo que se desecharon en el contenedor así acondicionado en el laboratorio|
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
