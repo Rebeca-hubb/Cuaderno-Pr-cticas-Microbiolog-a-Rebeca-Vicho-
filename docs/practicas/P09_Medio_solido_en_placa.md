@@ -244,7 +244,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Resultado | [Apartado 9](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#9-observaciones-y-resultados-alumnado--rellenable--durante) |
 | Interpretación | Apartado 12 |
-| Incidencias y acciones correctoras | Apartado 11 |
+| Incidencias y acciones correctoras | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos y conservación |Todos los residuos generados se consideran asimilables a urbanos, por lo que se desecharon en el contenedor así acondicionado en el laboratorio|
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
