@@ -223,7 +223,8 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 mL, la dispensación de seis tubos de 8 mL y los criterios de homogeneidad, acondicionamiento, identificación y esterilización previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+El lote estará bien preparado si hemos usado la cantidad de polvo correcta, preparado los 50 mL, repartido 8 mL en cada tubo y esterilizado el caldo correctamente. También hay que comprobar que no tenga grumos y que los tubos estén bien cerrados y etiquetados.
+El control de esterilidad queda pendiente, porque todavía hay que comprobar que no haya contaminación. Aunque el caldo tenga buen aspecto, eso no significa que esté libre de microorganismos y se pueda utilizar con seguridad.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
