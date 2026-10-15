@@ -112,10 +112,10 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 - **Nombre y apellidos:** Rebeca Vicho Píriz
 - **Fecha real de realización:** 14/10/2026
 - **Grupo:** 2º LCB
-- **Equipo de trabajo, si procede:** Trabajo en pareja: Cristina Manzano y Rebeca Vicho
-- **Rol o tarea principal que realizaste:** Realizar la medición del agua destilada para la preparación del agar nutritivo.
+- **Equipo de trabajo, si procede:** Trabajo en pareja: Cristina Manzano, Rebeca Vicho y Diego Pacheco.
+- **Rol o tarea principal que realizaste:** Realizar la medición del agua destilada para la preparación del medio de cultivo en placa con agar nutritivo comercial.
 - **Modalidad realmente realizada:** Ejecución real supervisada en el laboratorio de Microbiología
-- **Nombre o código del medio preparado:** Agar nutritivo
+- **Nombre o código del medio preparado:** Agar nutritivo comercial
 - **Volumen previsto:** `125 mL` de Agar nutritivo; el protocolo docente estima unas seis placas. Registra el volumen y número realmente obtenidos, si procede.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -242,7 +242,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; fabricante: ; dosis: 2,87 g; 125 mL objetivo; 6 placas |
 | Componentes, lotes y caducidades relevantes | Agar nutritivo comercial, fabricante: , lote: 111131, caducidad: y dosis consultada: 23 g/l |
 | Controles | Apartado 9.1 |
-| Resultado | Apartado 9 |
+| Resultado | [Apartado 9](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#9-observaciones-y-resultados-alumnado--rellenable--durante) |
 | Interpretación | Apartado 12 |
 | Incidencias y acciones correctoras | Apartado 11 |
 | Ruta de residuos y conservación |Todos los residuos generados se consideran asimilables a urbanos, por lo que se desecharon en el contenedor así acondicionado en el laboratorio|
