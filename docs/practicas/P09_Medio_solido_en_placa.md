@@ -241,7 +241,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | Equipo: Diego Pacheco, Cristina Manzano y Rebeca Vicho |
 | Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; fabricante: ; dosis: 2,87 g; 125 mL objetivo; 6 placas |
 | Componentes, lotes y caducidades relevantes | Agar nutritivo comercial, fabricante: , lote: 111131, caducidad: y dosis consultada: 23 g/l |
-| Controles | Apartado 9.1 |
+| Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Resultado | [Apartado 9](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#9-observaciones-y-resultados-alumnado--rellenable--durante) |
 | Interpretación | Apartado 12 |
 | Incidencias y acciones correctoras | Apartado 11 |
