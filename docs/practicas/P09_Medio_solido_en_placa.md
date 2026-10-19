@@ -142,7 +142,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-**| Aspecto | Registro del alumnado |** 
+| Aspecto | Registro del alumnado |
 |---| |---|
 | Cálculos (si procede) |Según la fórmula: **masa de polvo (g) = dosificación indicada (g/L) × 0,125 L**, calculamos la masa de agar nutritivo que pesaremos posteriormente para realizar el medio de cultivo. La dosificación indicada es de 23 gramos por litro, este dato lo cogeremos del bote de agar nutritivo, y el resultado de la masa de polvo es de 2,875g, que redondeamos a 2,88g porque la balanza no da el resultado con tres decimales.
 | Configuración de equipos (si procede) | Hemos usado una balanza portátil de la marca Metria, el calentamiento del agua destilada hemos utilizado un microondas de la marca Bluesky y para autoclavar el medio de cultivo hemos usado un autoclave de la marca Presoclave 3 plus, con el programa 4.|
@@ -196,6 +196,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
+|---| |---|
 | Derrame de la sustancia en el microondas | No hubo concentración | Limpieza y desinfección de la zona | Sí, se llenaron 4 placas en lugar de 6 |
 | Al pesar en la balanza, esta se apagó | Demasiado tiempo de espera | Volver a realizar el pesaje | No |
 
