@@ -196,7 +196,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
-| Derrame de la sustancia en el microondas | No hubo concentración | Limpieza y desinfección de la zona | No |
+| Derrame de la sustancia en el microondas | No hubo concentración | Limpieza y desinfección de la zona | Sí, se llenaron 4 placas en lugar de 6 |
 | Al pesar en la balanza, esta se apagó | Demasiado tiempo de espera | Volver a realizar el pesaje | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
@@ -243,7 +243,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | 14/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
 | Agrupamiento | Equipo: Diego Pacheco, Cristina Manzano y Rebeca Vicho |
-| Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; fabricante: ; dosis: 2,87 g; 125 mL objetivo; 6 placas |
+| Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; fabricante: ; dosis: 2,87 g; 125 mL objetivo; 4 placas llenas |
 | Componentes, lotes y caducidades relevantes | Agar nutritivo comercial, fabricante: , lote: 111131, caducidad: y dosis consultada: 23 g/l |
 | Controles | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Resultado | [Apartado 9](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P09_Medio_solido_en_placa.md#9-observaciones-y-resultados-alumnado--rellenable--durante) |
