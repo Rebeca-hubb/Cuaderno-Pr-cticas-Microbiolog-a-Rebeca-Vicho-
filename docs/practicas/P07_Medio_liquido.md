@@ -136,6 +136,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 | Reactivos/materiales | Brain Heart infusion broth, agua destilada y papel aluminio |
 
 | Residuo previsto | Tipo |
+|---|---|
 | Pipeta Pasteur | Asimilables a urbanos |
 | Reactivo BHI | Urbanos o asimilables a los urbanos |
 
@@ -260,11 +261,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P07` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 07/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
 | Agrupamiento | Equipo: Diego Pacheco, Rebeca Vicho, Paula Escobar, Miriam García, Ariadna Seguro y Cristina Manzano. |
 | Medio, dosis y preparación | BHI: fabricante: Pronadisa Laboratorios Conda S.A., dosis de etiqueta: 37g/l, masa calculada/pesada: 1,85g y preparación de 50 mL: medir en una probeta 50ml de agua destilada, enrasar con una pipeta Pasteur, verter el agua en un vaso de precipitado y calentar. Depositar la masa del reactivo ya pesado en el vaso de precipitado y disolver con una varilla de vidrio. |
-| Dispensación y esterilización | [Seis tubos: 8ml en cada tubo, rotulado con el número del grupo, solución y fecha, ciclo de autoclave 15min a 121º(, sin incidencias detectadas y controles correctos |
+| Dispensación y esterilización | Seis tubos: 8ml en cada tubo, rotulado con el número del grupo, solución y fecha, ciclo de autoclave 15min a 121ºC, sin incidencias detectadas y controles correctos |
 | Componentes, lotes y caducidades relevantes | Reactivo BHI con lote 608301 y caducidad 08/2020 |
 | Controles | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#91-registro-de-observaciones-y-c%C3%A1lculos |
 | Resultado | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#9-observaciones-y-resultados-alumnado--rellenable--durante |
