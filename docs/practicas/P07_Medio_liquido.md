@@ -272,6 +272,6 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Interpretación | (https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P07_Medio_liquido.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante |
 | Ruta de residuos y conservación | Todos los residuos son asimilables a urbanos |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Pendiente de revisión |
 
 ---
