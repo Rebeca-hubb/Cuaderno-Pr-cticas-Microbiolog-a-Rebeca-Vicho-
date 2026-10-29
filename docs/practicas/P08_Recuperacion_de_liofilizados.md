@@ -205,7 +205,10 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 ### Imagen 6 — Lectura del resultado
 
-![Registro de lectura del tubo y controles autorizados](../assets/P08/lectura_y_controles_06.jpg)
+![Registro de lectura del tubo y controles autorizados](../assets/P08/1lectura_y_controles_06.jpg)
+![Registro de lectura del tubo y controles autorizados](../assets/P08/2lectura_y_controles_06.jpg)
+![Registro de lectura del tubo y controles autorizados](../assets/P08/3lectura_y_controles_06.jpg)
+![Registro de lectura del tubo y controles autorizados](../assets/P08/4lectura_y_controles_06.jpg)
 
 - **Pie de foto:** Tras la incubación se observa turbidez en el tubo que contiene Staphylococcus Epidermitis.
 - **Relación con la interpretación:** Permite concluir que en los tubos con turbidez ha crecido el agente cultivado y en los que no se observa modificación no ha crecido nada.
