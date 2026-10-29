@@ -174,41 +174,42 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 ![Tubo de caldo BHI preparado en P07 y material dispuesto antes de la práctica](../assets/P08/bhi_p07_y_material_02.jpg)
 
-- **Pie de foto:** [Tubo de BHI de P07 y material dispuesto antes de abrir la ampolla]
-- **Control de seguridad asociado:** [Verificación previa del medio y del puesto]
-- **Origen de la imagen:** [Propia / demostración docente; especifica]
+- **Pie de foto:** Se observan los tubos con el cultivo de BHI y los tubos con las ampollas que contienen las cepas.
+- **Control de seguridad asociado:**Compatibilidad del BHI de P07, estado del tubo y condiciones de incubación confirmados.
+  Integridad de la ampolla, trazabilidad y desviaciones registradas.
+- **Origen de la imagen:** Compartida con el equipo
 
 ### Imagen 3 — Preparación del área de trabajo
 
 ![Área de trabajo y sistema de contención preparados según el protocolo local](../assets/P08/area_de_trabajo_preparada_03.jpg)
 
-- **Pie de foto:** [Sistema de contención y EPI, sin mostrar manipulación si la fotografía no está autorizada]
-- **Control de seguridad asociado:** [Completa]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Material dispuestos sobre el área de trabajo (en la mesa donde se encuentra el mechero bünsen, utilizado para crear esterilidad).
+- **Control de seguridad asociado:** algodón y utensilio manejados asépticamente, ampolla contenida en tubo secundario y condiciones de almacenamiento anotados. Control de esterilidad y viabilidad.
+- **Autoría y origen:** Compartida con el equipo
 
 ### Imagen 4 — Rehidratación o toma de polvo y cierre secundario
 
 ![Material cerrado tras la rehidratación de A o la toma de polvo y cierre secundario de B, si está autorizado](../assets/P08/rehidratacion_o_reserva_04.jpg)
 
-- **Pie de foto:** [Indica ruta A o B; fotografía solo después de cerrar la operación y sin interrumpir la técnica]
-- **Modalidad y momento:** [Ejecución real / registro docente autorizado]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Ruta B
+- **Modalidad y momento:** Ejecución real
+- **Autoría y origen:** Compartida con el equipo
 
 ### Imagen 5 — Tubo inoculado y entrada a incubación
 
 ![Tubo de BHI inoculado, cerrado e identificado sin datos sensibles](../assets/P08/tubo_inoculado_05.jpg)
 
-- **Pie de foto:** [Estado del tubo tras transferir la suspensión y antes de incubarlo]
-- **Parámetros de incubación:** [Referencia al registro, sin inventar valores]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Se asegura que el tubo está bien cerrado e identificado antes de la incubación.
+- **Parámetros de incubación:** Se programa la estufa a 40º para incubar durante 24h.
+- **Autoría y origen:** Compartida con el equipo
 
 ### Imagen 6 — Lectura del resultado
 
 ![Registro de lectura del tubo y controles autorizados](../assets/P08/lectura_y_controles_06.jpg)
 
-- **Pie de foto:** [Hallazgo observado y controles disponibles; no atribuyas pureza por aspecto]
-- **Relación con la interpretación:** [Explica qué permite concluir y qué queda pendiente]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Tras la incubación se observa turbidez en el tubo que contiene Staphylococcus Epidermitis.
+- **Relación con la interpretación:** Permite concluir que en los tubos con turbidez ha crecido el agente cultivado y en los que no se observa modificación no ha crecido nada.
+- **Autoría y origen:** Compartida con el equipo
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
