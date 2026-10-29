@@ -124,11 +124,11 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 - **Nombre y apellidos:** Rebeca Vicho Píriz
 - **Fecha real de realización:** 28/10/2026
 - **Grupo:** 2º LCB
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad y ruta realmente realizadas:** [Ejecución real supervisada, ruta A o B / demostración parcial / práctica detenida antes de abrir; especifica]
-- **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
-- **Responsable que autorizó y supervisó la ejecución:** [Completa]
+- **Pareja o equipo, si procede:** Diego Pacheco, Miriam , Paula Escobar, Ariadna Seguro y Rebeca Vicho.
+- **Rol o tarea principal que realizaste:** Realización de cultivo de Staphylococcus Epidermitis en caldo de cultivo BHI.
+- **Modalidad y ruta realmente realizadas:** Ejecución real supervisada; el profesor estaba pendiente mientras se realizaban los cultivos.
+- **Referencia de vial, registro o caso docente:** Ampolla abierta de Staphylococcus Epidermitis liofilizado.
+- **Responsable que autorizó y supervisó la ejecución:** Antonio Paredes de la Sal.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -166,9 +166,9 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 ![Verificación previa y trazabilidad de la cepa, sin datos identificables](../assets/P08/verificacion_y_trazabilidad_01.jpg)
 
-- **Pie de foto:** [Verificación de integridad, identificación y registro, sin mostrar códigos sensibles]
-- **Modalidad de la evidencia:** [Ejecución real / demostración parcial]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Pie de foto:** Se observa la integridad, fecha de realización y estado del tubo donde se encuentras las dos cepas de las que realizamos los cultivos. 
+- **Modalidad de la evidencia:** Ejecución real
+- **Autoría y origen:** Compartida con tu equipo
 
 ### Imagen 2 — Material preparado: BHI de P07
 
