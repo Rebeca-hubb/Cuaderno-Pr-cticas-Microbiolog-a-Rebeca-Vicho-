@@ -108,10 +108,10 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 - **Fecha de ejecución:** 04/11/2026
 - **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
 - **Grupo:** 2º LCB; grupo 3
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
-- **Código autorizado del cultivo de trabajo de P08 y de la placa:** [Completa sin incluir datos sensibles]
+- **Pareja de trabajo, si procede:** Grupo: Diego Pacheco, Cristina Manzano y Rebeca Vicho
+- **Rol o tarea principal que realizaste:** Siembra en estría en un medio de cultivo sólido en placa
+- **Modalidad realmente realizada:** Ejecución real supervisada
+- **Código autorizado del cultivo de trabajo de P08 y de la placa:** Agar nutritivo realizado el .../11/2026
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -137,9 +137,9 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Cálculos (si procede) | No procede |
+| Configuración de equipos (si procede) | Se ha utilizado el mechero Bünsen. La llama debe estar azul (no naranja) y hay que tener cuidado con la fuente de gas |
+| Características del producto o resultado final | Tras la incubación no se observó crecimiento |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
