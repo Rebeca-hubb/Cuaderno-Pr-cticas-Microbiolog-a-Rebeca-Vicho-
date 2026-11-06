@@ -111,7 +111,7 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 - **Pareja de trabajo, si procede:** Grupo: Diego Pacheco, Cristina Manzano y Rebeca Vicho
 - **Rol o tarea principal que realizaste:** Siembra en estría en un medio de cultivo sólido en placa
 - **Modalidad realmente realizada:** Ejecución real supervisada
-- **Código autorizado del cultivo de trabajo de P08 y de la placa:** Agar nutritivo realizado el .../11/2026
+- **Código autorizado del cultivo de trabajo de P08 y de la placa:** Agar nutritivo realizado el 28/10/2026
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
