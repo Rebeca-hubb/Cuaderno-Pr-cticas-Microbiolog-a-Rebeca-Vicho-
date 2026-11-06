@@ -264,7 +264,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Referencia autorizada de protocolo o caso | [Completa] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
-| Interpretación | [Resume o enlaza al apartado 12] |
+| Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos o devolución del material | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
