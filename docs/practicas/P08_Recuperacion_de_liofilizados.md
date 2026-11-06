@@ -138,13 +138,16 @@ Enumera los recursos reales: incluye el tubo de BHI de 8 mL de P07 y el material
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Gradilla, pinzas, placa de Petri estéril, asa de siembra, pinzas, rotulador permanente y vaso de precipitado |
+| Equipos | Microscopio, mecheros Bünsen e incubadora |
+| Reactivos/materiales | medio de cultivo BHI líquido con sus tapones, polvo de las cepas bacterianas, pipeta Pasteur, papel de filtro, alcohol y agua destilada |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel de filtro | Urbanos o asimilables a los urbanos |
+| Algodón de las cepas | Biológicos |
+| Placa de Petri | Biológicos |
+| Resto de ampollas con el polvo de las cepas bacterianas | Biológicos infeccioso |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
