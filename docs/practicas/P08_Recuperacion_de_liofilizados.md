@@ -263,7 +263,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Modalidad y origen de la evidencia | [Completa] |
 | Referencia autorizada de protocolo o caso | [Completa] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
+| Resultado | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
 | Ruta de residuos o devolución del material | [Completa] |
