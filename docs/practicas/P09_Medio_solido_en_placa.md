@@ -196,7 +196,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
-|---| |---|
+|---|---|---|---|
 | Derrame de la sustancia en el microondas | No hubo concentración | Limpieza y desinfección de la zona | Sí, se llenaron 4 placas en lugar de 6 |
 | Al pesar en la balanza, esta se apagó | Demasiado tiempo de espera | Volver a realizar el pesaje | No |
 
