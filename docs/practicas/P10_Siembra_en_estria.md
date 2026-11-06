@@ -221,7 +221,7 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | Resultado | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante-y-despu%C3%A9s) |
-| Ruta de residuos y estado final de la placa | [Completa] |
+| Ruta de residuos y estado final de la placa | Guantes: residuo biológico (si ha entrado en contacto con el cultivo) si no es así es asimilable a lo urbano; en la placa no se ha observado crecimiento |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ## 16. Fuentes técnicas y documentales
