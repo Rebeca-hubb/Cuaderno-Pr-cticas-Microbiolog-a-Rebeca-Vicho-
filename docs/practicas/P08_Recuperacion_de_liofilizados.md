@@ -157,9 +157,9 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Identifica el sistema de contención y la incubadora; anota los parámetros reales y su fuente: ficha de cepa o protocolo local] |
-| Características del producto o resultado final | [Indica la ruta A/B, el crecimiento observado y, para B, cómo quedó el remanente y dónde se almacenó; anota tiempos y límites. No afirmes pureza sin control] |
+| Cálculos (si procede) | No procede |
+| Configuración de equipos (si procede) | No procede |
+| Características del producto o resultado final | Se observa el crecimiento de unas pequeñas partículas en el medio y se almacenó en la estufa. Y ha estado en estufa aproximadamente una semana |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
