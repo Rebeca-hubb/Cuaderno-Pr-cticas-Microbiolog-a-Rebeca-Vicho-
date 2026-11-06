@@ -220,7 +220,7 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | Controles | Utilización de mechero Bünsen para crear zona aséptica |
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
+| Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante-y-despu%C3%A9s) |
 | Ruta de residuos y estado final de la placa | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
