@@ -219,7 +219,7 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | Placa, medio y referencia autorizada | medio agar nutritivo |
 | Controles | Utilización de mechero Bünsen para crear zona aséptica |
 | Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
+| Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante-y-despu%C3%A9s) |
 | Ruta de residuos y estado final de la placa | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
