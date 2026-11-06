@@ -173,13 +173,13 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | No se observaron errores durante la preparación del material ni durante la siembra | No fue necesario aplicar medidas correctoras, ya que el procedimiento se realizó correctamente. | No. la práctica pudo desarrollarse con normalidad. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la calidad de la técnica y el patrón de crecimiento observado. Explica qué controles apoyan la lectura, qué incidencia podría explicar un resultado no esperado y por qué una descripción macroscópica no permite identificar de forma definitiva un microorganismo ni declarar pureza sin controles posteriores.
 
-[Escribe aquí tu interpretación técnica.]
+La siembra en estría simple continua se realizó para cultivar los microorganismos Staphylococcus y Carnobacterium en un medio sólido. La técnica consiste en extender el inóculo por la superficie del agar, manteniendo las condiciones de esterilidad. Los resultados se valorarán después de la incubación, observando si se produce crecimiento microbiano. Para identificar los microorganismos y comprobar la pureza del cultivo serían necesarias pruebas posteriores.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
