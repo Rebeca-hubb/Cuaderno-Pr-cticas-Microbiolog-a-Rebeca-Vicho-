@@ -124,7 +124,7 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 - **Nombre y apellidos:** Rebeca Vicho Píriz
 - **Fecha real de realización:** 28/10/2026
 - **Grupo:** 2º LCB
-- **Pareja o equipo, si procede:** Diego Pacheco, Miriam , Paula Escobar, Ariadna Seguro y Rebeca Vicho.
+- **Pareja o equipo, si procede:** Diego Pacheco, Miriam García, Paula Escobar, Ariadna Seguro y Rebeca Vicho.
 - **Rol o tarea principal que realizaste:** Realización de cultivo de Staphylococcus Epidermitis en caldo de cultivo BHI.
 - **Modalidad y ruta realmente realizadas:** Ejecución real supervisada; el profesor estaba pendiente mientras se realizaban los cultivos.
 - **Referencia de vial, registro o caso docente:** Ampolla abierta de Staphylococcus Epidermitis liofilizado.
@@ -241,7 +241,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa? Si aplicaste B, ¿cómo evitaste contaminar o dispersar el polvo?
 
-   [Respuesta del alumnado]
+   La ampolla ya se encontraba abierta por otros compañeros, pero habría que verificar su integridad, ................
 
 2. **Interpretación:** ¿Qué evidencias permiten valorar crecimiento, viabilidad y pureza, y qué limitación tiene observar solo el aspecto del caldo?
 
