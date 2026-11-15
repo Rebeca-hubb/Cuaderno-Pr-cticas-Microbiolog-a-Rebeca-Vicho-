@@ -149,25 +149,26 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 ![Preparación segura](../assets/P10/preparacion_segura_01.jpg)
 
-- **Pie de foto:** [Qué se observa: EPI, puesto desinfectado, placa etiquetada o material dispuesto]
-- **Control de seguridad o trazabilidad que demuestra:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
+- **Pie de foto:** Se observa el puesto desinfectado con alcohol de 70, nuestra placa etiquetada, el material mencionado anteriormente y de EPIS la bata y guantes.
+- **Control de seguridad o trazabilidad que demuestra:** Placa marcada con la cepa o muestra, la fecha de inoculación y la persona o grupo responsable; tubo y medio íntegros; EPI y desinfección aplicados conforme al [PNT-010 del centro](#16-fuentes-tecnicas-y-documentales).
+- **Autoría:** Compartida con pareja
 
-### Imagen 2 — Patrón de siembra
+Imagen 2: ### Imagen 2 — Patrón de siembra
 
 ![Patrón de siembra](../assets/P10/patron_de_siembra_o_demostracion_02.jpg)
 
-- **Pie de foto:** [Qué se observa durante la estría]
-- **Decisión técnica asociada:** [Completa]
-- **Origen de la imagen:** [Ejecución propia supervisada; indica quién la tomó]
+- **Pie de foto:** Se observa la realización de la siembra en estría simple, extendiendo la muestra sobre la superficie del agar con un asa de siembra, manteniendo las condiciones de seguridad y evitando contaminaciones.
+- **Decisión técnica asociada:** Estría continua realizada sin perforar el agar ni cruzar líneas; modalidad real anotada.
+- **Origen de la imagen:** Ejecución propia.
 
-### Imagen 3 — Lectura macroscópica
+Imagen 3: ### Imagen 3 — Lectura macroscópica
 
 ![Lectura macroscópica](../assets/P10/lectura_macroscopica_o_resultado_docente_03.jpg)
 
-- **Pie de foto:** [Patrón, aspecto general o resultado que se interpreta]
-- **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita la conclusión]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Se observa el crecimiento de colonias en la placa, valorando su distribución, aspecto general y patrón de crecimiento para interpretar el resultado de la siembra.
+- **Relación con el resultado principal:** Placa invertida e incubada bajo las condiciones confirmadas para la bacteria inoculada; asa esterilizada o desechada según el tipo y la ruta autorizada.
+- Lectura macroscópica autorizada descrita sin afirmar identidad ni pureza.
+- **Autoría y origen:** En pareja.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
