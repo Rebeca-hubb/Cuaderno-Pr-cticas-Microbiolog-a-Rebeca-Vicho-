@@ -269,6 +269,6 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Interpretación | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s |
 | Incidencias y acciones correctoras | https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P01_Bioseguridad.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante |
 | Ruta de residuos aplicada | El papel absorbente con el desinfectante utilizado (alcohol al 70%) y el residuo de derrames se aisló en una bolsa de plástico que se cerró y fue directamente al contenedor de residuos asimilables a urbanos, al igual que los guantes |
-| Estado de entrega | Pendiente de revisión |
+| Estado de entrega | Entregado |
 
 ---
