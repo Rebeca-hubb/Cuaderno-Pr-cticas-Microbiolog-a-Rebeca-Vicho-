@@ -241,19 +241,22 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa? Si aplicaste B, ¿cómo evitaste contaminar o dispersar el polvo?
 
-   La ampolla ya se encontraba abierta por otros compañeros, pero habría que verificar su integridad, ................
+   La ampolla ya se encontraba abierta por otros compañeros, pero habría que verificar su integridad, observando que el algodón se encuentra en condiciones de asepsia y que tanto la extracción del polvo (cepa liofilizada) como el manejo de los utensilios se realiza de forma adecuada, con los materiales esterilizados.
+   Esto se consigue mediante la utilización del mechero bünsen y siguiendo el protocolo específico.
 
-2. **Interpretación:** ¿Qué evidencias permiten valorar crecimiento, viabilidad y pureza, y qué limitación tiene observar solo el aspecto del caldo?
+3. **Interpretación:** ¿Qué evidencias permiten valorar crecimiento, viabilidad y pureza, y qué limitación tiene observar solo el aspecto del caldo?
 
-   [Respuesta del alumnado]
+   Las evidencias que permiten valorar el crecimiento, viabilidad y pureza del cultivo es la observación del aspecto del caldo tras la incubación 24 horas a 37-40ºC.
+   La limitación de la observación del caldo tras la incubación se resume en que, al ser un cultivo en medio líquido al no crecer bastante no se puede observar de forma correcta, con lo cuál puede llevar a confusiones.
 
-3. **Conclusiones:** ¿Qué decisión profesional tomarías con el resultado y los controles disponibles: continuar, repetir, detener o escalar? Explica el criterio aplicado.
+5. **Conclusiones:** ¿Qué decisión profesional tomarías con el resultado y los controles disponibles: continuar, repetir, detener o escalar? Explica el criterio aplicado.
 
-   [Respuesta del alumnado]
+   La decisión que tomaría sería repetir el cultivo, ya que no se observó crecimiento en ningún cultivo realizado.
+   Esta decisión sería la más adecuada, puesto que puede haber un error en la toma de la cepa, en el mismo medio de cultivo (caldo BHI) o en las condiciones de incubación.
 
-4. **Aprendizaje y transferencia:** ¿Qué principio de trazabilidad o bioseguridad aplicarás cuando trabajes con material conservado, medios de cultivo o resultados de identificación en prácticas posteriores?
+7. **Aprendizaje y transferencia:** ¿Qué principio de trazabilidad o bioseguridad aplicarás cuando trabajes con material conservado, medios de cultivo o resultados de identificación en prácticas posteriores?
 
-   [Respuesta del alumnado]
+   El más importante es trabajar en condiciones de asepsia y con todos los materiales esterilizados, prestando especial atención al abrir la cepa y el medio de cultivo.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -262,14 +265,14 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Identificador de práctica | `P08` |
 | Fecha | 28/10/2026 |
 | UD / RA / CE | `UD3 / RA03-RA04 / CE03.d–CE03.h; CE04.a–CE04.e` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Modalidad y origen de la evidencia | [Completa] |
-| Referencia autorizada de protocolo o caso | [Completa] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Agrupamiento | Equipo: Diego Pacheco, Rebeca Vicho, Miriam García, Ariadna Seguro, Paula Escobar y Cristina Manzano. |
+| Modalidad y origen de la evidencia | Modalidad: real autorizada; evidencias compartidas con el equipo. |
+| Referencia autorizada de protocolo o caso | Ruta B; [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/coleccion-espanola-cultivos-tipo/es/documentacion/instrucciones-tecnicas-procedimientos/instrucciones-uso-productos-cect-1285953961369.html)|
+| Controles | Autorización, identidad, riesgo, ficha de la cepa y responsable registrados antes de abrir, compatibilidad del BHI de P07, estado del tubo y condiciones de incubación confirmados (se observa que el tubo de caldo BHI se encuentra en óptimas condiciones para su utilización), integridad de la ampolla, trazabilidad y desviaciones registradas (no se ha detectado ninguna incidencia en cuanto a la ampolla que contiene la cepa), ruta B identificada y realizada, con los utensilio manejados asépticamente, ampolla contenida en tubo secundario y condiciones de almacenamiento anotadas, imágenes o evidencias identificadas como ejecución real o demostración autorizada, sin atribuir una modalidad distinta. |
 | Resultado | [Apartado 9.1](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
-| Ruta de residuos o devolución del material | [Completa] |
+| Ruta de residuos o devolución del material | Papel de filtro: Urbanos o asimilables a los urbanos; Algodón de las cepas: Biológicos; Placa de Petri: Biológicos; Resto de ampollas con el polvo de las cepas bacterianas: Biológicos infeccioso |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
