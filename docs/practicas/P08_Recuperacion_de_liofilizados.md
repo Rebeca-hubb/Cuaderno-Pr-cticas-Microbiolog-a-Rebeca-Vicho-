@@ -221,7 +221,7 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Vertido del caldo BHI durante la realización del cultivo | Difícil manejo del tubo con el medio de cultivo líquido abierto mientras se hace la toma la cepa | No se realizó ninguna medida correctora, se cultivó la cepa, pero con menos medio de cultivo | No se puede saber, ya que en ningún tubo con BHI se observó crecimiento |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -273,6 +273,6 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos o devolución del material | Papel de filtro: Urbanos o asimilables a los urbanos; Algodón de las cepas: Biológicos; Placa de Petri: Biológicos; Resto de ampollas con el polvo de las cepas bacterianas: Biológicos infeccioso |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
 
 ---
