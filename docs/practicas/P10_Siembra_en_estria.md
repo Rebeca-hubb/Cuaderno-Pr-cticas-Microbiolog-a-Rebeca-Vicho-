@@ -186,7 +186,13 @@ La siembra en estría simple continua se realizó para cultivar los microorganis
 
 Valora si alcanzaste el objetivo de realizar una siembra en estría simple o continua de forma segura. Relaciona razonadamente el objetivo con el procedimiento y el resultado registrado; identifica cualquier limitación o resultado pendiente.
 
-[Escribe aquí tu conclusión.]
+El objetivo de realizar una siembra en estría simple se ha alcanzado al cumplir los objetivos que en la práctica se presentan:
+- Preparar el puesto, el material y la placa de acuerdo con el protocolo.
+- Aplicar una secuencia de inoculación aséptica con la ayuda del mechero Bünsen bajo supervisión del profesor.
+- Reconocer los puntos de control que reducen contaminación cruzada y aerosoles, como son la apertura del medio de cultivo que contiene la cepa fuera de la zona aséptica, entre otros riesgos de contaminación.
+- Describir el patrón de crecimiento observado en una placa segura o en una evidencia docente, el cuál no se ha podido observar porque no ha presentado crecimiento.
+- Diferenciar entre una observación macroscópica y una identificación definitiva, como se puede observar tras el análisis de la placa después de la incubación.
+- Registrar la técnica, la trazabilidad, las incidencias y el resultado de forma rigurosa, como se evidencia durante todos los apartados de este informe.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -223,7 +229,7 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | Interpretación | [Apartado 12](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias, medidas y escalado | [Apartado 11](https://github.com/Rebeca-hubb/Cuaderno-Pr-cticas-Microbiolog-a-Rebeca-Vicho-/blob/main/docs/practicas/P10_Siembra_en_estria.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante-y-despu%C3%A9s) |
 | Ruta de residuos y estado final de la placa | Guantes: residuo biológico (si ha entrado en contacto con el cultivo) si no es así es asimilable a lo urbano; en la placa no se ha observado crecimiento |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
 
 ## 16. Fuentes técnicas y documentales
 
