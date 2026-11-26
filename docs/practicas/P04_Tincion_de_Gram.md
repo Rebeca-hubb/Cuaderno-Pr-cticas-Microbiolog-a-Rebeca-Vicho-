@@ -67,22 +67,22 @@ La tinción de Gram comprende colorante primario, mordiente, decoloración, cont
 ---
 # Tu cuaderno de prácticas
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real con colonia autorizada / alternativa docente; describe cuál]
-- **Código de cepa y colonia asignada:** [Registra el código docente, medio/origen conocido y fecha de lectura; no inventes datos]
+- **Nombre y apellidos:** Rebeca Vicho Píriz
+- **Fecha real de realización:** 25/11/26
+- **Grupo:** 2º LCB; Grupo 3
+- **Pareja de trabajo, si procede:** Individual.
+- **Rol o tarea principal que realizaste:** Realización de todo el proceso de la tinción y la práctica completa.
+- **Modalidad realmente realizada:** Ejecución real con colonia autorizada
+- **Código de cepa y colonia asignada:** Cepa de Staphylococcus, leída el mismo día de la práctica (25/11/26), ya que a las 24h de realizarla no se observó crecimiento.
 - **Kit de Gram utilizado:** [Fabricante o referencia, lote y caducidad disponibles]
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 ### 8.1 Verificación previa
 Enumera los materiales y equipos previstos para teñir colonias autorizadas. Incluye por separado los líquidos con reactivos, el material contaminado y el vidrio; clasifica cada residuo según el circuito confirmado por el centro.
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta u otro] |
-| Equipos | [Microscopio y objetivo; mechero Bunsen solo si está autorizado] |
-| Reactivos/materiales | [Colonia y código docente, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos] |
+| Instrumental | Portaobjetos, asa de siembra, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta |
+| Equipos | Microscopio y objetivo; mechero Bunsen |
+| Reactivos/materiales | Colonia de Staphylococcus de la siembra realizada el día, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos] |
 | Residuo previsto | Tipo |
 |---|---|
 | [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
