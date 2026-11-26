@@ -82,10 +82,12 @@ Enumera los materiales y equipos previstos para teñir colonias autorizadas. Inc
 |---|---|
 | Instrumental | Portaobjetos, asa de siembra, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta |
 | Equipos | Microscopio y objetivo; mechero Bunsen |
-| Reactivos/materiales | Colonia de Staphylococcus de la siembra realizada el día, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos] |
+| Reactivos/materiales | Colonia de Staphylococcus de la siembra realizada el día, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos |
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Residuos químicos del kit de la tinción de Gram | Residuos químicos |
+| Papel de filtro | Urbanos |
+| Papel absorbente | Urbanos |
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 ### 9.1 Registro de observaciones y cálculos
 Registra la ejecución real o la alternativa asignada. Anota la cepa y colonia codificadas, kit empleado, tiempos y parámetros autorizados, configuración microscópica, controles, reacción, morfología y limitaciones. No completes datos no disponibles.
