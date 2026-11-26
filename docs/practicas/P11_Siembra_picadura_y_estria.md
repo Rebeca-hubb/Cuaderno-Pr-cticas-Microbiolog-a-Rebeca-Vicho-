@@ -223,7 +223,7 @@ Registra los datos observados en la ejecución real de los tubos A, B y C. Escri
 | Aspecto | Registro del alumnado |
 |---|---|
 | Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | Al utilizar |
+| Configuración de equipos (si procede) | Al utilizar el mechero Bünsen para crear una zona aséptica a la hora de realizar las siembras. Para ello se necesita tener un control y configurar de forma correcta la llama, manipulando con cuidado y según el protocolo seguido por el profesor. |
 | Características del producto o resultado final | [Describe A: estría superficial; B: crecimiento en la trayectoria recta; C: picadura y superficie estriada por separado. Indica controles y limitaciones.] |
 
 ## 10. Evidencias visuales
