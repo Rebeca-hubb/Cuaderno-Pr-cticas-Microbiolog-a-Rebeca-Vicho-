@@ -186,7 +186,7 @@ En los tres procedimientos, mantén la manipulación aséptica y la apertura/cie
 | Técnica asignada al tubo A | Estría en superficie inclinada |
 | Técnica asignada al tubo B | Picadura en tubo recto |
 | Técnica asignada al tubo C | Picadura seguida de estría |
-| Cultivo previo y colonia asignada | [Código autorizado comunicado por el docente] |
+| Cultivo previo y colonia asignada | Cultivo previo: Cultivo en placa de Petri con medio agar nutritivo de Staphylococcus |
 | Medio y disposición de cada tubo | A: medio sólido inclinado; B: medio sólido recto; C: medio sólido inclinado |
 | Controles o comparación docente | [Indica control previsto o «No aplica»] |
 | Límite de lectura indicado para la sesión | [Escribe aquí] |
