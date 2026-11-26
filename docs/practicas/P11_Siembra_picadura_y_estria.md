@@ -223,7 +223,7 @@ Registra los datos observados en la ejecución real de los tubos A, B y C. Escri
 | Aspecto | Registro del alumnado |
 |---|---|
 | Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Configuración de equipos (si procede) | Al utilizar |
 | Características del producto o resultado final | [Describe A: estría superficial; B: crecimiento en la trayectoria recta; C: picadura y superficie estriada por separado. Indica controles y limitaciones.] |
 
 ## 10. Evidencias visuales
