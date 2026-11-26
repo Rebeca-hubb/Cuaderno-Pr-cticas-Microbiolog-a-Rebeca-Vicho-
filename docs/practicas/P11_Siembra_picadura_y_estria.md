@@ -28,13 +28,13 @@ student_completion: "Individual o por pareja, según la organización del grupo"
 
 | Campo | Registro del alumnado |
 | --- | --- |
-| Nombre y apellidos | [Escribe aquí] |
-| Grupo / pareja de trabajo | [Escribe aquí] |
-| Fecha de realización | [dd/mm/aaaa] |
-| Fecha de lectura o revisión | [dd/mm/aaaa] |
-| Rol desempeñado | [Operador/a, observador/a, registrador/a u otro] |
+| Nombre y apellidos | Rebeca Vicho Píriz |
+| Grupo / pareja de trabajo | Individual |
+| Fecha de realización | 18/11/26 |
+| Fecha de lectura o revisión | 19/1/26 |
+| Rol desempeñado | Operadora y registradora |
 | Modalidad de trabajo | Ejecución real supervisada en el laboratorio docente |
-| Cultivo previo y colonia asignada | [Código trazable autorizado; no añadas datos sensibles] |
+| Cultivo previo y colonia asignada | Cultivo previo:  |
 | Códigos de los tubos A, B y C | [Escribe aquí, sin datos sensibles] |
 
 ---
