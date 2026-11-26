@@ -235,43 +235,43 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 ### Imagen 1 — Cultivo o colonias que se van a sembrar
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la colonia asignada, sin datos sensibles.]<br>
+![Cultivo o colonias que se van a sembrar](../assets/P11/01_colonia.jpg)
 **Pie de foto técnico:** [Describe el cultivo y señala la colonia seleccionada.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 2 — Siembra en estría en superficie inclinada (tubo A)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la estría en el agar inclinado.]<br>
+![Siembra en estría tubo A](../assets/P11/02_siembra_en_estria.jpg)
 **Pie de foto técnico:** [Describe la trayectoria realizada sobre la superficie.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 3 — Siembra en picadura en tubo recto (tubo B)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la picadura en el medio sólido recto.]<br>
+![Siembra picadura tubo B](../assets/P11/03_siembra_en_picadura.jpg)
 **Pie de foto técnico:** [Describe la trayectoria de entrada y retirada del hilo.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 4 — Siembra en picadura y estría (tubo C)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la técnica combinada en el agar inclinado.]<br>
+![Siembra en picadura y estría](../assets/P11/04_siembra_en_C.jpg)
 **Pie de foto técnico:** [Describe por separado la picadura y la estría superficial.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 5 — Resultado tras incubación de la siembra en estría (tubo A)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada del tubo A tras la incubación indicada.]<br>
+![Resultado tubo A](../assets/P11/05_resultado_tuboA.jpg)
 **Pie de foto técnico:** [Describe el crecimiento observado en la superficie inclinada o indica que no se observa.]<br>
 **Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
 ### Imagen 6 — Resultado tras incubación de la siembra en picadura (tubo B)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada del tubo B tras la incubación indicada.]<br>
+![Resultado tubo B](../assets/P11/06_resultado_tuboB.jpg)
 **Pie de foto técnico:** [Describe el crecimiento observado en la trayectoria de picadura o indica que no se observa.]<br>
 **Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
 ### Imagen 7 — Resultado tras incubación de la siembra en picadura y estría (tubo C)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada del tubo C tras la incubación indicada.]<br>
+![Resultado tubo C](../assets/P11/07_resultado_tuboC.jpg)
 **Pie de foto técnico:** [Describe por separado el crecimiento en profundidad y en la superficie inclinada, o indica que no se observa.]<br>
 **Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
