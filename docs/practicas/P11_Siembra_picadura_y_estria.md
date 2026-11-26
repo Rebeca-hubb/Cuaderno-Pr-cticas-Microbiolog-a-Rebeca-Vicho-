@@ -31,11 +31,11 @@ student_completion: "Individual o por pareja, según la organización del grupo"
 | Nombre y apellidos | Rebeca Vicho Píriz |
 | Grupo / pareja de trabajo | Individual |
 | Fecha de realización | 18/11/26 |
-| Fecha de lectura o revisión | 19/1/26 |
+| Fecha de lectura o revisión | 19/11/26 |
 | Rol desempeñado | Operadora y registradora |
 | Modalidad de trabajo | Ejecución real supervisada en el laboratorio docente |
-| Cultivo previo y colonia asignada | Cultivo previo:  |
-| Códigos de los tubos A, B y C | [Escribe aquí, sin datos sensibles] |
+| Cultivo previo y colonia asignada | Cultivo previo: Cultivo en placa de Petri con medio agar nutritivo de Staphylococcus |
+| Códigos de los tubos A, B y C | Nombre: Rebeca; Fecha: 18/11/26; Colonia: Staphyloccocus |
 
 ---
 
@@ -90,11 +90,11 @@ Completa antes de empezar:
 
 | Verificación | Sí / No / No aplica | Observación o referencia |
 | --- | --- | --- |
-| La sesión se realiza de forma real y supervisada | [ ] | [Escribe aquí] |
-| Dispongo de los EPI requeridos y del puesto preparado | [ ] | [Escribe aquí] |
-| He identificado los tres tubos, sus medios y códigos de trazabilidad | [ ] | [Escribe aquí] |
-| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | [ ] | [Escribe aquí] |
-| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | [ ] | [Escribe aquí] |
+| La sesión se realiza de forma real y supervisada | Sí | Observación |
+| Dispongo de los EPI requeridos y del puesto preparado | Sí | Observación |
+| He identificado los tres tubos, sus medios y códigos de trazabilidad | Sí | Observación |
+| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | Sí | Observación |
+| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | Sí | Referencia |
 
 ---
 
@@ -111,7 +111,7 @@ Antes de realizar o revisar la actividad, responde:
 
 > ¿Qué diferencias esperas entre los tres patrones de siembra y qué información adicional necesitarías para interpretar los crecimientos con seguridad?
 
-[Escribe aquí. Relaciona la predicción con las tres trayectorias de siembra.]
+La diferencia que espero entre los patrones de siembra de los tres tubos es ...................
 
 ---
 
