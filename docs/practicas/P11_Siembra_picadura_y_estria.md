@@ -110,7 +110,8 @@ Antes de realizar o revisar la actividad, responde:
 
 > ¿Qué diferencias esperas entre los tres patrones de siembra y qué información adicional necesitarías para interpretar los crecimientos con seguridad?
 
-La diferencia que espero entre los patrones de siembra de los tres tubos es ...................
+La diferencia que espero entre los patrones de siembra de los tres tubos es el modo en el que crecerán los microorganismos, ya que la forma de sembrarlos son distintos, por lo que el crecimiento también debe serlo. 
+Para poder interpretar los crecimientos con seguridad necesitaría de la ayuda tanto del profesor como de la inteligencia artificial o webs específicas, ya que yo no cuento con esa información.
 
 ---
 
@@ -187,7 +188,7 @@ En los tres procedimientos, mantén la manipulación aséptica y la apertura/cie
 | Técnica asignada al tubo C | Picadura seguida de estría |
 | Cultivo previo y colonia asignada | Cultivo previo: Cultivo en placa de Petri con medio agar nutritivo de Staphylococcus |
 | Medio y disposición de cada tubo | A: medio sólido inclinado; B: medio sólido recto; C: medio sólido inclinado |
-| Controles o comparación docente | [Indica control previsto o «No aplica»] |
+| Controles o comparación docente | No aplica |
 | Límite de lectura indicado para la sesión | [Escribe aquí] |
 
 ### [ALUMNADO · RELLENABLE] Decisión de seguridad
@@ -282,7 +283,7 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 | Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
-| [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
+| Medio de cultivo del tubo B quemado con el asa de siembras | Mal crecimiento de las bacterias | Seguir con la siembra | Sí | Crecimiento poco visible |
 
 ---
 
@@ -318,19 +319,19 @@ Redacta una interpretación breve y fundamentada:
 
 **1. Procedimiento — Integridad de la trayectoria.** Durante la picadura en el tubo B y la zona profunda del tubo C, ¿por qué se debe retirar el hilo exactamente por el mismo canal de entrada, sin perforar el vidrio del fondo ni realizar movimientos laterales?
 
-   [Respuesta]
+Porque al retirar el hilo por el mismo canal se evita ensanchar o desviar la picadura, manteniendo una trayectoria recta y limpia. También se evita dañar el vidrio del fondo y alterar el medio de cultivo.
 
 **2. Interpretación.** Dado que los tubos A, B y C proceden de una misma colonia asignada, ¿cómo deberías interpretar una discrepancia evidente entre ellos (por ejemplo, ausencia total de crecimiento en la estría del tubo A frente a crecimiento abundante en la superficie inclinada del tubo C)?
 
-   [Respuesta]
+   La discrepancia podría deberse a errores durante la siembra, como una inoculación incorrecta o una contaminación. También habría que comprobar las condiciones de incubación y la manipulación de los tubos antes de sacar conclusiones.
 
 **3. Conclusiones — Evaluación de la destreza motriz y el control del instrumental.** A partir de tu desempeño real al manipular el asa y el hilo recto en los tres tubos, ¿qué evidencia física en el agar (ausencia de desgarros, canal único centrado y profundidad controlada sin tocar el fondo) te permite concluir que has dominado las tres trayectorias mecánicas de inoculación?
 
-   [Respuesta]
+   El dominio de las técnicas se demuestra cuando la estría es continua, el canal de picadura es único y está centrado, y no se observan desgarros en el agar ni perforaciones en el fondo del tubo.
 
 **4. Aprendizaje y transferencia — Aplicación a medios bioquímicos diferenciales.** La técnica combinada de picadura y estría (tubo C) es la base de medios como el agar TSI o KIA. ¿Cómo te ayudará el dominio de esta doble trayectoria a evitar falsos positivos o lecturas erróneas cuando evalúes fermentaciones o producción de gases en el futuro?
 
-   [Respuesta]
+   Dominar ambas técnicas permite realizar correctamente la inoculación de medios como TSI o KIA, evitando errores en la distribución del inóculo que puedan provocar interpretaciones incorrectas de las fermentaciones o de la producción de gases.
 
 ---
 
@@ -341,13 +342,13 @@ Redacta una interpretación breve y fundamentada:
 | Elemento | Registro |
 | --- | --- |
 | Código de práctica | P11 |
-| Fecha de entrega | [dd/mm/aaaa] |
+| Fecha de entrega | 18/11/26 |
 | Enlace o ubicación de las evidencias | [Escribe aquí] |
 | Modalidad declarada | Ejecución real supervisada |
 | Procedimiento técnico consultado | [PNT-010. Manipulación aséptica en bacteriología, v1.2](#pnt-010) |
 | Control o referencia utilizada | [Escribe aquí] |
 | Ruta de residuos o cierre de actividad | [Escribe aquí] |
-| Autoevaluación | [Logrado / en proceso / necesito revisión] |
+| Autoevaluación | En proceso |
 
 ---
 
