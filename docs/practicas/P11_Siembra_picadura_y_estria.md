@@ -62,8 +62,7 @@ Al finalizar, el alumnado deberá ser capaz de:
 
 Completa antes de empezar:
 
-> Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
-
+> Mi objetivo técnico en esta práctica es aprender a realizar las distintas técnicas de siembra que se indican en el informe (la de picadura y la de estría), siendo capaz de ejecutarla de manera correcta y aprendiendo para prácticas posteriores.
 ---
 
 ## 4. Recursos, seguridad y autorización
